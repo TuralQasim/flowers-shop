@@ -2968,8 +2968,16 @@
     }
   ],
   "reviews": [
-  
-  
+    {
+      "id": 1,
+      "product_id": 1,
+      "stars": 4,
+      "user": "Tural Qasimov",
+      "email": "turalqasim123@mail.ru",
+      "content": "good flower",
+      "images": ["abc", "bca", "tyu", "suhd"],
+      "date": "28.05.2023"
+    },
     {
       "product_id": "18",
       "stars": 4,
