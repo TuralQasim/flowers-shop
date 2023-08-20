@@ -2487,484 +2487,484 @@
       {
         "id": 1,
         "category": "Buketlər",
-        "category_icon": "src/icons/bouquet.svg"
+        "category_icon": "./data/icons/bouquet.svg"
       },
       {
         "id": 2,
         "category": "Hədiyyələr",
-        "category_icon": "src/icons/gifts.svg"
+        "category_icon": "./data/icons/gifts.svg"
       },
       {
         "id": 3,
         "category": "Toy buketləri",
-        "category_icon": "src/icons/wedding_bouquet.svg"
+        "category_icon": "./data/icons/wedding_bouquet.svg"
       },
       {
         "id": 4,
         "category": "Toy bəzəyi",
-        "category_icon": "src/icons/wedding_decor.svg"
+        "category_icon": "./data/icons/wedding_decor.svg"
       },
       {
         "id": 5,
         "category": "Kəsilmiş güllər",
-        "category_icon": "src/icons/cut_flowers.svg"
+        "category_icon": "./data/icons/cut_flowers.svg"
       },
       {
         "id": 6,
         "category": "Şirniyyat",
-        "category_icon": "src/icons/candy.svg"
+        "category_icon": "./data/icons/candy.svg"
       },
       {
         "id": 7,
         "category": "Şarlar",
-        "category_icon": "src/icons/baloon.svg"
+        "category_icon": "./data/icons/baloon.svg"
       },
       {
         "id": 8,
         "category": "Qızıl gül",
-        "category_icon": "src/icons/roses.svg"
+        "category_icon": "./data/icons/roses.svg"
       }
     ],
     "RU": [
       {
         "id": 1,
         "category": "Букеты",
-        "category_icon": "src/icons/bouquet.svg"
+        "category_icon": "./data/icons/bouquet.svg"
       },
       {
         "id": 2,
         "category": "Подарки",
-        "category_icon": "src/icons/gifts.svg"
+        "category_icon": "./data/icons/gifts.svg"
       },
       {
         "id": 3,
         "category": "Свадебные букеты",
-        "category_icon": "src/icons/wedding_bouquet.svg"
+        "category_icon": "./data/icons/wedding_bouquet.svg"
       },
       {
         "id": 4,
         "category": "Свадебный декор",
-        "category_icon": "src/icons/wedding_decor.svg"
+        "category_icon": "./data/icons/wedding_decor.svg"
       },
       {
         "id": 5,
         "category": "Срезанные цветы",
-        "category_icon": "src/icons/cut_flowers.svg"
+        "category_icon": "./data/icons/cut_flowers.svg"
       },
       {
         "id": 6,
         "category": "Сладости",
-        "category_icon": "src/icons/candy.svg"
+        "category_icon": "./data/icons/candy.svg"
       },
       {
         "id": 7,
         "category": "Шары",
-        "category_icon": "src/icons/baloon.svg"
+        "category_icon": "./data/icons/baloon.svg"
       },
       {
         "id": 8,
         "category": "Розы",
-        "category_icon": "src/icons/roses.svg"
+        "category_icon": "./data/icons/roses.svg"
       }
     ],
     "EN": [
       {
         "id": 1,
         "category": "Bouquet",
-        "category_icon": "src/icons/bouquet.svg"
+        "category_icon": "./data/icons/bouquet.svg"
       },
       {
         "id": 2,
         "category": "Gifts",
-        "category_icon": "src/icons/gifts.svg"
+        "category_icon": "./data/icons/gifts.svg"
       },
       {
         "id": 3,
         "category": "Wedding bouquet",
-        "category_icon": "src/icons/wedding_bouquet.svg"
+        "category_icon": "./data/icons/wedding_bouquet.svg"
       },
       {
         "id": 4,
         "category": "Wedding decor",
-        "category_icon": "src/icons/wedding_decor.svg"
+        "category_icon": "./data/icons/wedding_decor.svg"
       },
       {
         "id": 5,
         "category": "Cut flowers",
-        "category_icon": "src/icons/cut_flowers.svg"
+        "category_icon": "./data/icons/cut_flowers.svg"
       },
       {
         "id": 6,
         "category": "Candy",
-        "category_icon": "src/icons/candy.svg"
+        "category_icon": "./data/icons/candy.svg"
       },
       {
         "id": 7,
         "category": "Baloon",
-        "category_icon": "src/icons/baloon.svg"
+        "category_icon": "./data/icons/baloon.svg"
       },
       {
         "id": 8,
         "category": "Roses",
-        "category_icon": "src/icons/roses.svg"
+        "category_icon": "./data/icons/roses.svg"
       }
     ]
   },
   "images": [
     {
       "id": 1,
-      "src": ["../src/data/images/bouquet/1/1.jpg"]
+      "src": ["./data/images/bouquet/1/1.jpg"]
     },
     {
       "id": 2,
-      "src": ["../src/data/images/bouquet/2/2.jpg"]
+      "src": ["./data/images/bouquet/2/2.jpg"]
     },
     {
       "id": 3,
-      "src": ["../src/data/images/bouquet/3/3.jpg"]
+      "src": ["./data/images/bouquet/3/3.jpg"]
     },
     {
       "id": 4,
       "src": [
-        "../src/data/images/bouquet/4/4.jpg",
-        "../src/data/images/bouquet/4/1.jpg"
+        "./data/images/bouquet/4/4.jpg",
+        "./data/images/bouquet/4/1.jpg"
       ]
     },
     {
       "id": 5,
-      "src": ["../src/data/images/bouquet/5/5.jpg"]
+      "src": ["./data/images/bouquet/5/5.jpg"]
     },
     {
       "id": 6,
-      "src": ["../src/data/images/bouquet/6/6.jpg"]
+      "src": ["./data/images/bouquet/6/6.jpg"]
     },
     {
       "id": 7,
-      "src": ["../src/data/images/bouquet/7/7.jpg"]
+      "src": ["./data/images/bouquet/7/7.jpg"]
     },
     {
       "id": 8,
-      "src": ["../src/data/images/bouquet/8/8.jpg"]
+      "src": ["./data/images/bouquet/8/8.jpg"]
     },
     {
       "id": 9,
-      "src": ["../src/data/images/bouquet/9/9.jpg"]
+      "src": ["./data/images/bouquet/9/9.jpg"]
     },
     {
       "id": 10,
-      "src": ["../src/data/images/bouquet/10/10.jpg"]
+      "src": ["./data/images/bouquet/10/10.jpg"]
     },
     {
       "id": 11,
-      "src": ["../src/data/images/bouquet/11/11.jpg"]
+      "src": ["./data/images/bouquet/11/11.jpg"]
     },
     {
       "id": 12,
-      "src": ["../src/data/images/gifts/1/1.jpg"]
+      "src": ["./data/images/gifts/1/1.jpg"]
     },
     {
       "id": 13,
-      "src": ["../src/data/images/gifts/2/2.jpg"]
+      "src": ["./data/images/gifts/2/2.jpg"]
     },
     {
       "id": 14,
-      "src": ["../src/data/images/gifts/3/3.jpg"]
+      "src": ["./data/images/gifts/3/3.jpg"]
     },
     {
       "id": 15,
-      "src": ["../src/data/images/gifts/4/4.jpg"]
+      "src": ["./data/images/gifts/4/4.jpg"]
     },
     {
       "id": 16,
-      "src": ["../src/data/images/gifts/5/5.jpg"]
+      "src": ["./data/images/gifts/5/5.jpg"]
     },
     {
       "id": 17,
-      "src": ["../src/data/images/gifts/6/6.jpg"]
+      "src": ["./data/images/gifts/6/6.jpg"]
     },
     {
       "id": 18,
       "src": [
-        "../src/data/images/gifts/7/7.jpg",
-        "../src/data/images/gifts/7/1.jpg",
-        "../src/data/images/gifts/7/2.jpg",
-        "../src/data/images/gifts/7/3.jpg",
-        "../src/data/images/gifts/7/4.jpg",
-        "../src/data/images/gifts/7/5.jpg"
+        "./data/images/gifts/7/7.jpg",
+        "./data/images/gifts/7/1.jpg",
+        "./data/images/gifts/7/2.jpg",
+        "./data/images/gifts/7/3.jpg",
+        "./data/images/gifts/7/4.jpg",
+        "./data/images/gifts/7/5.jpg"
       ]
     },
     {
       "id": 19,
       "src": [
-        "../src/data/images/wedding_bouquet/1/1.jpg",
-        "../src/data/images/wedding_bouquet/1/2.jpg",
-        "../src/data/images/wedding_bouquet/1/3.jpg"
+        "./data/images/wedding_bouquet/1/1.jpg",
+        "./data/images/wedding_bouquet/1/2.jpg",
+        "./data/images/wedding_bouquet/1/3.jpg"
       ]
     },
     {
       "id": 20,
-      "src": ["../src/data/images/wedding_bouquet/2/2.jpg"]
+      "src": ["./data/images/wedding_bouquet/2/2.jpg"]
     },
     {
       "id": 21,
-      "src": ["../src/data/images/wedding_bouquet/3/1.jpg"]
+      "src": ["./data/images/wedding_bouquet/3/1.jpg"]
     },
     {
       "id": 22,
-      "src": ["../src/data/images/wedding_bouquet/4/4.jpg"]
+      "src": ["./data/images/wedding_bouquet/4/4.jpg"]
     },
     {
       "id": 23,
       "src": [
-        "../src/data/images/wedding_bouquet/5/1.jpg",
-        "../src/data/images/wedding_bouquet/5/2.jpg"
+        "./data/images/wedding_bouquet/5/1.jpg",
+        "./data/images/wedding_bouquet/5/2.jpg"
       ]
     },
     {
       "id": 24,
       "src": [
-        "../src/data/images/wedding_bouquet/6/1.jpg",
-        "../src/data/images/wedding_bouquet/6/2.jpg"
+        "./data/images/wedding_bouquet/6/1.jpg",
+        "./data/images/wedding_bouquet/6/2.jpg"
       ]
     },
     {
       "id": 25,
-      "src": ["../src/data/images/wedding_bouquet/7/1.jpg"]
+      "src": ["./data/images/wedding_bouquet/7/1.jpg"]
     },
     {
       "id": 26,
-      "src": ["../src/data/images/wedding_bouquet/8/1.jpg"]
+      "src": ["./data/images/wedding_bouquet/8/1.jpg"]
     },
     {
       "id": 27,
       "src": [
-        "../src/data/images/wedding_bouquet/9/1.jpg",
-        "../src/data/images/wedding_bouquet/9/2.jpg"
+        "./data/images/wedding_bouquet/9/1.jpg",
+        "./data/images/wedding_bouquet/9/2.jpg"
       ]
     },
     {
       "id": 28,
       "src": [
-        "src/data/images/wedding_decor/1/1.jpg",
-        "src/data/images/wedding_decor/1/2.jpg",
-        "src/data/images/wedding_decor/1/3.jpg",
-        "src/data/images/wedding_decor/1/4.jpg",
-        "src/data/images/wedding_decor/1/5.jpg"
+        "./data/images/wedding_decor/1/1.jpg",
+        "./data/images/wedding_decor/1/2.jpg",
+        "./data/images/wedding_decor/1/3.jpg",
+        "./data/images/wedding_decor/1/4.jpg",
+        "./data/images/wedding_decor/1/5.jpg"
       ]
     },
     {
       "id": 29,
       "src": [
-        "src/data/images/wedding_decor/2/1.jpg",
-        "src/data/images/wedding_decor/2/2.jpg",
-        "src/data/images/wedding_decor/2/3.jpg"
+        "./data/images/wedding_decor/2/1.jpg",
+        "./data/images/wedding_decor/2/2.jpg",
+        "./data/images/wedding_decor/2/3.jpg"
       ]
     },
     {
       "id": 30,
       "src": [
-        "../src/data/images/wedding_decor/3/1.jpg",
-        "../src/data/images/wedding_decor/3/2.jpg",
-        "../src/data/images/wedding_decor/3/3.jpg"
+        "./data/images/wedding_decor/3/1.jpg",
+        "./data/images/wedding_decor/3/2.jpg",
+        "./data/images/wedding_decor/3/3.jpg"
       ]
     },
     {
       "id": 31,
-      "src": ["../src/data/images/wedding_decor/4/1.jpg"]
+      "src": ["./data/images/wedding_decor/4/1.jpg"]
     },
     {
       "id": 32,
       "src": [
-        "../src/data/images/wedding_decor/5/1.jpg",
-        "../src/data/images/wedding_decor/5/2.jpg",
-        "../src/data/images/wedding_decor/5/3.jpg",
-        "../src/data/images/wedding_decor/5/3.jpg",
-        "../src/data/images/wedding_decor/5/3.jpg"
+        "./data/images/wedding_decor/5/1.jpg",
+        "./data/images/wedding_decor/5/2.jpg",
+        "./data/images/wedding_decor/5/3.jpg",
+        "./data/images/wedding_decor/5/3.jpg",
+        "./data/images/wedding_decor/5/3.jpg"
       ]
     },
     {
       "id": 33,
-      "src": ["../src/data/images/cut_flowers/1/1.jpg"]
+      "src": ["./data/images/cut_flowers/1/1.jpg"]
     },
     {
       "id": 34,
-      "src": ["../src/data/images/cut_flowers/2/1.jpg"]
+      "src": ["./data/images/cut_flowers/2/1.jpg"]
     },
     {
       "id": 35,
-      "src": ["../src/data/images/cut_flowers/3/1.jpg"]
+      "src": ["./data/images/cut_flowers/3/1.jpg"]
     },
     {
       "id": 36,
-      "src": ["../src/data/images/cut_flowers/4/1.jpg"]
+      "src": ["./data/images/cut_flowers/4/1.jpg"]
     },
     {
       "id": 37,
-      "src": ["../src/data/images/cut_flowers/5/1.jpg"]
+      "src": ["./data/images/cut_flowers/5/1.jpg"]
     },
     {
       "id": 38,
-      "src": ["../src/data/images/cut_flowers/6/1.jpg"]
+      "src": ["./data/images/cut_flowers/6/1.jpg"]
     },
     {
       "id": 39,
-      "src": ["../src/data/images/cut_flowers/7/1.jpg"]
+      "src": ["./data/images/cut_flowers/7/1.jpg"]
     },
     {
       "id": 40,
-      "src": ["../src/data/images/cut_flowers/8/1.jpg"]
+      "src": ["./data/images/cut_flowers/8/1.jpg"]
     },
     {
       "id": 41,
-      "src": ["../src/data/images/cut_flowers/9/1.jpg"]
+      "src": ["./data/images/cut_flowers/9/1.jpg"]
     },
     {
       "id": 42,
-      "src": ["../src/data/images/cut_flowers/10/10.jpg"]
+      "src": ["./data/images/cut_flowers/10/10.jpg"]
     },
     {
       "id": 43,
-      "src": ["../src/data/images/candy/1/1.jpg"]
+      "src": ["./data/images/candy/1/1.jpg"]
     },
     {
       "id": 44,
-      "src": ["../src/data/images/candy/2/1.jpg"]
+      "src": ["./data/images/candy/2/1.jpg"]
     },
     {
       "id": 45,
-      "src": ["../src/data/images/candy/3/1.jpg"]
+      "src": ["./data/images/candy/3/1.jpg"]
     },
     {
       "id": 46,
-      "src": ["../src/data/images/candy/4/1.jpg"]
+      "src": ["./data/images/candy/4/1.jpg"]
     },
     {
       "id": 47,
-      "src": ["../src/data/images/candy/5/1.jpg"]
+      "src": ["./data/images/candy/5/1.jpg"]
     },
     {
       "id": 48,
-      "src": ["../src/data/images/candy/6/1.png"]
+      "src": ["./data/images/candy/6/1.png"]
     },
     {
       "id": 49,
-      "src": ["../src/data/images/candy/7/1.jpg"]
+      "src": ["./data/images/candy/7/1.jpg"]
     },
     {
       "id": 50,
-      "src": ["../src/data/images/candy/8/1.jpg"]
+      "src": ["./data/images/candy/8/1.jpg"]
     },
     {
       "id": 51,
-      "src": ["../src/data/images/candy/9/1.jpg"]
+      "src": ["./data/images/candy/9/1.jpg"]
     },
     {
       "id": 52,
       "src": [
-        "../src/data/images/baloon/1/1.jpg",
-        "../src/data/images/baloon/1/2.jpg"
+        "./data/images/baloon/1/1.jpg",
+        "./data/images/baloon/1/2.jpg"
       ]
     },
     {
       "id": 53,
       "src": [
-        "../src/data/images/baloon/2/1.jpg",
-        "../src/data/images/baloon/2/2.jpg"
+        "./data/images/baloon/2/1.jpg",
+        "./data/images/baloon/2/2.jpg"
       ]
     },
     {
       "id": 54,
       "src": [
-        "../src/data/images/baloon/3/1.jpg",
-        "../src/data/images/baloon/3/2.jpg"
+        "./data/images/baloon/3/1.jpg",
+        "./data/images/baloon/3/2.jpg"
       ]
     },
     {
       "id": 55,
-      "src": ["../src/data/images/baloon/4/1.jpg"]
+      "src": ["./data/images/baloon/4/1.jpg"]
     },
     {
       "id": 56,
-      "src": ["../src/data/images/baloon/5/1.jpg"]
+      "src": ["./data/images/baloon/5/1.jpg"]
     },
     {
       "id": 57,
-      "src": ["../src/data/images/baloon/6/1.jpg"]
+      "src": ["./data/images/baloon/6/1.jpg"]
     },
     {
       "id": 58,
-      "src": ["../src/data/images/baloon/7/1.jpg"]
+      "src": ["./data/images/baloon/7/1.jpg"]
     },
     {
       "id": 59,
-      "src": ["../src/data/images/baloon/8/1.jpg"]
+      "src": ["./data/images/baloon/8/1.jpg"]
     },
     {
       "id": 60,
-      "src": ["../src/data/images/baloon/9/1.jpg"]
+      "src": ["./data/images/baloon/9/1.jpg"]
     },
     {
       "id": 61,
-      "src": ["src/data/images/baloon/10/1.jpg"]
+      "src": ["./data/images/baloon/10/1.jpg"]
     },
     {
       "id": 62,
       "src": [
-        "../src/data/images/roses/1/1.jpg",
-        "../src/data/images/roses/1/2.jpg"
+        "./data/images/roses/1/1.jpg",
+        "./data/images/roses/1/2.jpg"
       ]
     },
     {
       "id": 63,
-      "src": ["../src/data/images/roses/2/1.jpg"]
+      "src": ["./data/images/roses/2/1.jpg"]
     },
     {
       "id": 64,
-      "src": ["../src/data/images/roses/3/1.jpg"]
+      "src": ["./data/images/roses/3/1.jpg"]
     },
     {
       "id": 65,
-      "src": ["../src/data/images/roses/4/1.jpg"]
+      "src": ["./data/images/roses/4/1.jpg"]
     },
     {
       "id": 66,
-      "src": ["../src/data/images/roses/5/1.jpg"]
+      "src": ["./data/images/roses/5/1.jpg"]
     },
     {
       "id": 67,
-      "src": ["../src/data/images/roses/6/1.jpg"]
+      "src": ["./data/images/roses/6/1.jpg"]
     },
     {
       "id": 68,
-      "src": ["../src/data/images/roses/7/7.jpg"]
+      "src": ["./data/images/roses/7/7.jpg"]
     },
     {
       "id": 69,
-      "src": ["../src/data/images/roses/8/1.jpg"]
+      "src": ["./data/images/roses/8/1.jpg"]
     },
     {
       "id": 70,
-      "src": ["../src/data/images/roses/9/1.jpg"]
+      "src": ["./data/images/roses/9/1.jpg"]
     },
     {
       "id": 71,
-      "src": ["../src/data/images/roses/10/1.jpg"]
+      "src": ["./data/images/roses/10/1.jpg"]
     },
     {
       "id": 72,
-      "src": ["../src/data/images/roses/11/1.jpg"]
+      "src": ["./data/images/roses/11/1.jpg"]
     },
     {
       "id": 73,
-      "src": ["../src/data/images/roses/12/1.jpg"]
+      "src": ["./data/images/roses/12/1.jpg"]
     },
     {
       "id": 74,
-      "src": ["../src/data/images/roses/13/1.jpg"]
+      "src": ["./data/images/roses/13/1.jpg"]
     },
     {
       "id": 75,
-      "src": ["../src/data/images/roses/14/1.jpg"]
+      "src": ["./data/images/roses/14/1.jpg"]
     }
   ],
   "reviews": [
