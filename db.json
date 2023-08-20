@@ -2487,126 +2487,126 @@
       {
         "id": 1,
         "category": "Buketlər",
-        "category_icon": "./data/icons/bouquet.svg"
+        "category_icon": "src/icons/bouquet.svg"
       },
       {
         "id": 2,
         "category": "Hədiyyələr",
-        "category_icon": "./data/icons/gifts.svg"
+        "category_icon": "src/icons/gifts.svg"
       },
       {
         "id": 3,
         "category": "Toy buketləri",
-        "category_icon": "./data/icons/wedding_bouquet.svg"
+        "category_icon": "src/icons/wedding_bouquet.svg"
       },
       {
         "id": 4,
         "category": "Toy bəzəyi",
-        "category_icon": "./data/icons/wedding_decor.svg"
+        "category_icon": "src/icons/wedding_decor.svg"
       },
       {
         "id": 5,
         "category": "Kəsilmiş güllər",
-        "category_icon": "./data/icons/cut_flowers.svg"
+        "category_icon": "src/icons/cut_flowers.svg"
       },
       {
         "id": 6,
         "category": "Şirniyyat",
-        "category_icon": "./data/icons/candy.svg"
+        "category_icon": "src/icons/candy.svg"
       },
       {
         "id": 7,
         "category": "Şarlar",
-        "category_icon": "./data/icons/baloon.svg"
+        "category_icon": "src/icons/baloon.svg"
       },
       {
         "id": 8,
         "category": "Qızıl gül",
-        "category_icon": "./data/icons/roses.svg"
+        "category_icon": "src/icons/roses.svg"
       }
     ],
     "RU": [
       {
         "id": 1,
         "category": "Букеты",
-        "category_icon": "./data/icons/bouquet.svg"
+        "category_icon": "src/icons/bouquet.svg"
       },
       {
         "id": 2,
         "category": "Подарки",
-        "category_icon": "./data/icons/gifts.svg"
+        "category_icon": "src/icons/gifts.svg"
       },
       {
         "id": 3,
         "category": "Свадебные букеты",
-        "category_icon": "./data/icons/wedding_bouquet.svg"
+        "category_icon": "src/icons/wedding_bouquet.svg"
       },
       {
         "id": 4,
         "category": "Свадебный декор",
-        "category_icon": "./data/icons/wedding_decor.svg"
+        "category_icon": "src/icons/wedding_decor.svg"
       },
       {
         "id": 5,
         "category": "Срезанные цветы",
-        "category_icon": "./data/icons/cut_flowers.svg"
+        "category_icon": "src/icons/cut_flowers.svg"
       },
       {
         "id": 6,
         "category": "Сладости",
-        "category_icon": "./data/icons/candy.svg"
+        "category_icon": "src/icons/candy.svg"
       },
       {
         "id": 7,
         "category": "Шары",
-        "category_icon": "./data/icons/baloon.svg"
+        "category_icon": "src/icons/baloon.svg"
       },
       {
         "id": 8,
         "category": "Розы",
-        "category_icon": "./data/icons/roses.svg"
+        "category_icon": "src/icons/roses.svg"
       }
     ],
     "EN": [
       {
         "id": 1,
         "category": "Bouquet",
-        "category_icon": "./data/icons/bouquet.svg"
+        "category_icon": "src/icons/bouquet.svg"
       },
       {
         "id": 2,
         "category": "Gifts",
-        "category_icon": "./data/icons/gifts.svg"
+        "category_icon": "src/icons/gifts.svg"
       },
       {
         "id": 3,
         "category": "Wedding bouquet",
-        "category_icon": "./data/icons/wedding_bouquet.svg"
+        "category_icon": "src/icons/wedding_bouquet.svg"
       },
       {
         "id": 4,
         "category": "Wedding decor",
-        "category_icon": "./data/icons/wedding_decor.svg"
+        "category_icon": "src/icons/wedding_decor.svg"
       },
       {
         "id": 5,
         "category": "Cut flowers",
-        "category_icon": "./data/icons/cut_flowers.svg"
+        "category_icon": "src/icons/cut_flowers.svg"
       },
       {
         "id": 6,
         "category": "Candy",
-        "category_icon": "./data/icons/candy.svg"
+        "category_icon": "src/icons/candy.svg"
       },
       {
         "id": 7,
         "category": "Baloon",
-        "category_icon": "./data/icons/baloon.svg"
+        "category_icon": "src/icons/baloon.svg"
       },
       {
         "id": 8,
         "category": "Roses",
-        "category_icon": "./data/icons/roses.svg"
+        "category_icon": "src/icons/roses.svg"
       }
     ]
   },
