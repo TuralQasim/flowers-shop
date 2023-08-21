@@ -42,8 +42,8 @@
         "category_id": 1,
         "count": 1,
         "discount": "35",
-        "consist": "Лилия (в ассортименте), лента.",
-        "description": "Монобукеты из хризантемы, лилии, альстромерии, гербер, подсолнухов, ирисов, пионов не оставляет равнодушными даже самых привередливых."
+        "consist": "Zanbaq (çeşiddə)",
+        "description": "Xrizantema, zanbaq, alstroemeriya, gerbera, günəbaxan, iris, pionların mono-buketləri hətta ən cəsarətliləri də laqeyd qoymur."
       },
       {
         "id": 5,
@@ -53,8 +53,8 @@
         "category_id": 1,
         "count": 1,
         "discount": "20",
-        "consist": "Пионы, упаковка/лента (цвет упаковки и ленты уточняйте).",
-        "description": "Монобукеты из хризантемы, лилии, альстромерии, гербер, подсолнухов, ирисов, пионов не оставляет равнодушными даже самых привередливых."
+        "consist": "Peonies, qablaşdırma / lent (qablaşdırma və lentin rəngini qeyd edin).",
+        "description": "Xrizantema, zanbaq, alstroemeriya, gerbera, günəbaxan, iris, pionların mono-buketləri hətta ən cəsarətliləri də laqeyd qoymur."
       },
       {
         "id": 6,
@@ -64,7 +64,7 @@
         "price": "105.99",
         "category_id": 1,
         "discount": null,
-        "consist": "роза Талея(в ассортименте)",
+        "consist": "qızılgül Talea (çeşiddə)",
         "description": "Bir buket qızılgül həmişə gözəl klassikdir. Bir qızılgül seçərkən, hədiyyə ilə heç vaxt səhv etməyəcəksiniz."
       },
       {
@@ -86,7 +86,7 @@
         "count": 1,
         "discount": "2",
         "category_id": 1,
-        "consist": "роза Казанова (в ассортименте).",
+        "consist": "gül Kazanova (çeşiddə).",
         "description": "Bir buket qızılgül həmişə gözəl klassikdir. Bir qızılgül seçərkən, hədiyyə ilə heç vaxt səhv etməyəcəksiniz."
       },
       {
@@ -97,7 +97,7 @@
         "count": 1,
         "category_id": 1,
         "discount": "7",
-        "consist": "роза Анабель(в ассортименте).",
+        "consist": "qızılgül Anabel (çeşiddə).",
         "description": "Bir buket qızılgül həmişə gözəl klassikdir. Bir qızılgül seçərkən, hədiyyə ilə heç vaxt səhv etməyəcəksiniz."
       },
       {
@@ -131,7 +131,7 @@
         "discount": null,
         "category_id": 2,
         "consist": " ",
-        "description": "Мягкая игрушка."
+        "description": "Yumşaq oyuncaq."
       },
       {
         "id": 13,
@@ -196,8 +196,8 @@
         "discount": null,
         "count": 1,
         "category_id": 2,
-        "consist": "Свеча, мыло ручной работы (зайка 80грамм, цыпленок 30грамм, яичко перепелиное 13грамм каждое), декор, упаковка/лента, Пр-во РБ.",
-        "description": "Красивое сувенирное мыло ручной работы подойдет к любому торжеству."
+        "consist": "Şam, əl işi sabun (dovşan 80q, toyuq 30q, bildirçin yumurtası hər biri 13q), dekor, qablaşdırma/lent, Belarus istehsalıdır.",
+        "description": "Gözəl əl istehsalı suvenir sabunu hər hansı bir bayram üçün uyğundur."
       },
       {
         "id": 19,
@@ -208,7 +208,7 @@
         "price": "18.00",
         "category_id": 3,
         "consist": " ",
-        "description": "Важные дни хочется украсить красивыми цветами, но с этим букетом они станут ещё ярче. Только взгляните на эти цветы — идеальная идея для праздничного настроения!"
+        "description": "Əhəmiyyətli günləri gözəl çiçəklərlə bəzəmək istəyirəm, amma bu buketlə daha da parlaq olacaqlar. Sadəcə bu çiçəklərə baxın - bayram əhval-ruhiyyəsi üçün mükəmməl fikir!"
       },
       {
         "id": 20,
@@ -219,7 +219,7 @@
         "price": "8.00",
         "category_id": 3,
         "consist": " ",
-        "description": "Важные дни хочется украсить красивыми цветами, но с этим букетом они станут ещё ярче. Только взгляните на эти цветы — идеальная идея для праздничного настроения!"
+        "description": "Əhəmiyyətli günləri gözəl çiçəklərlə bəzəmək istəyirəm, amma bu buketlə daha da parlaq olacaqlar. Sadəcə bu çiçəklərə baxın - bayram əhval-ruhiyyəsi üçün mükəmməl fikir!"
       },
       {
         "id": 21,
@@ -230,7 +230,7 @@
         "price": "7.00",
         "category_id": 3,
         "consist": " ",
-        "description": "Важные дни хочется украсить красивыми цветами, но с этим букетом они станут ещё ярче. Только взгляните на эти цветы — идеальная идея для праздничного настроения!"
+        "description": "Əhəmiyyətli günləri gözəl çiçəklərlə bəzəmək istəyirəm, amma bu buketlə daha da parlaq olacaqlar. Sadəcə bu çiçəklərə baxın - bayram əhval-ruhiyyəsi üçün mükəmməl fikir!"
       },
       {
         "id": 22,
@@ -241,7 +241,7 @@
         "price": "16.00",
         "category_id": 3,
         "consist": " ",
-        "description": "Важные дни хочется украсить красивыми цветами, но с этим букетом они станут ещё ярче. Только взгляните на эти цветы — идеальная идея для праздничного настроения!"
+        "description": "Əhəmiyyətli günləri gözəl çiçəklərlə bəzəmək istəyirəm, amma bu buketlə daha da parlaq olacaqlar. Sadəcə bu çiçəklərə baxın - bayram əhval-ruhiyyəsi üçün mükəmməl fikir!"
       },
       {
         "id": 23,
@@ -252,7 +252,7 @@
         "price": "5.00",
         "category_id": 3,
         "consist": " ",
-        "description": "Важные дни хочется украсить красивыми цветами, но с этим букетом они станут ещё ярче. Только взгляните на эти цветы — идеальная идея для праздничного настроения!"
+        "description": "Əhəmiyyətli günləri gözəl çiçəklərlə bəzəmək istəyirəm, amma bu buketlə daha da parlaq olacaqlar. Sadəcə bu çiçəklərə baxın - bayram əhval-ruhiyyəsi üçün mükəmməl fikir!"
       },
       {
         "id": 24,
@@ -263,7 +263,7 @@
         "discount": null,
         "category_id": 3,
         "consist": " ",
-        "description": "Важные дни хочется украсить красивыми цветами, но с этим букетом они станут ещё ярче. Только взгляните на эти цветы — идеальная идея для праздничного настроения!"
+        "description": "Əhəmiyyətli günləri gözəl çiçəklərlə bəzəmək istəyirəm, amma bu buketlə daha da parlaq olacaqlar. Sadəcə bu çiçəklərə baxın - bayram əhval-ruhiyyəsi üçün mükəmməl fikir!"
       },
       {
         "id": 25,
@@ -274,7 +274,7 @@
         "price": "26.00",
         "category_id": 3,
         "consist": " ",
-        "description": "Важные дни хочется украсить красивыми цветами, но с этим букетом они станут ещё ярче. Только взгляните на эти цветы — идеальная идея для праздничного настроения!"
+        "description": "Əhəmiyyətli günləri gözəl çiçəklərlə bəzəmək istəyirəm, amma bu buketlə daha da parlaq olacaqlar. Sadəcə bu çiçəklərə baxın - bayram əhval-ruhiyyəsi üçün mükəmməl fikir!"
       },
       {
         "id": 26,
@@ -285,7 +285,7 @@
         "count": 1,
         "category_id": 3,
         "consist": " ",
-        "description": "Важные дни хочется украсить красивыми цветами, но с этим букетом они станут ещё ярче. Только взгляните на эти цветы — идеальная идея для праздничного настроения!"
+        "description": "Əhəmiyyətli günləri gözəl çiçəklərlə bəzəmək istəyirəm, amma bu buketlə daha da parlaq olacaqlar. Sadəcə bu çiçəklərə baxın - bayram əhval-ruhiyyəsi üçün mükəmməl fikir!"
       },
       {
         "id": 27,
@@ -296,7 +296,7 @@
         "price": "73.00",
         "category_id": 3,
         "consist": " ",
-        "description": "Важные дни хочется украсить красивыми цветами, но с этим букетом они станут ещё ярче. Только взгляните на эти цветы — идеальная идея для праздничного настроения!"
+        "description": "Əhəmiyyətli günləri gözəl çiçəklərlə bəzəmək istəyirəm, amma bu buketlə daha da parlaq olacaqlar. Sadəcə bu çiçəklərə baxın - bayram əhval-ruhiyyəsi üçün mükəmməl fikir!"
       },
       {
         "id": 28,
@@ -306,8 +306,8 @@
         "discount": null,
         "price": "132.00",
         "category_id": 4,
-        "consist": "Состав цветочных композиций оговариваются индивидуально с каждым заказчиком!  Суккулент, эустома, бруния, эвкалипт, гвоздика, альстромерия, хамелациум, кустовая роза, каллы, флористическая губка.",
-        "description": "Оформление торжественного зала цветами-особое направление во флористике.  Развивая и улучшая сервис, флористы добавляют в продажу новые цветы и стараются оставить хорошее впечатление от цветочной композиции. Всем клиентам мы предлагаем индивидуальное обслуживание, помогая сделать собственный неповторимый выбор. Магазин Gvozdika.by поможет Вам оформить зал для любого торжества будь это свадьба, День Рождения или просто корпоративная вечеринка. Наша команда готова выехать в любую точку Республики Беларусь и  с пониманием относится к финансовым возможностям каждого человека. Поэтому мы готовы предложить недорогие решения, экономичность которых не повлияет на парадный и торжественный вид букета или композиции."
+        "consist": "Gül kompozisiyalarının tərkibi hər bir müştəri ilə fərdi olaraq razılaşdırılır! Şirəli, eustoma, bruniya, evkalipt, qərənfil, alstromeriya, buqələm, kol gülü, kalla zanbaqları, çiçək süngəri.",
+        "description": "Mərasim salonunu çiçəklərlə bəzəmək çiçəkçilikdə xüsusi bir tendensiyadır. Xidməti inkişaf etdirən və təkmilləşdirən floristlər satışa yeni güllər əlavə edir və gül kompozisiyasında xoş təəssürat yaratmağa çalışırlar. Biz bütün müştərilərə fərdi xidmət təklif edirik, öz unikal seçimlərini etməyə kömək edirik. Gvozdika.by mağazası toy, ad günü və ya sadəcə korporativ şənlik olsun, istənilən bayram üçün zal təşkil etməyə kömək edəcək. Komandamız Belarus Respublikasının istənilən yerinə səyahət etməyə hazırdır və hər bir insanın maddi imkanlarına rəğbət bəsləyir. Buna görə də, biz ucuz həllər təklif etməyə hazırıq, onların iqtisadi effektivliyi buket və ya kompozisiyanın rəsmi və təntənəli görünüşünə təsir göstərməyəcəkdir."
       },
       {
         "id": 29,
@@ -317,8 +317,8 @@
         "price": "207.00",
         "discount": "29",
         "category_id": 4,
-        "consist": "Состав цветочных композиций оговариваются индивидуально с каждым заказчиком!  Суккулент, эустома, бруния, эвкалипт, гвоздика, альстромерия, хамелациум, кустовая роза, каллы, флористическая губка.",
-        "description": "Оформление торжественного зала цветами-особое направление во флористике.  Развивая и улучшая сервис, флористы добавляют в продажу новые цветы и стараются оставить хорошее впечатление от цветочной композиции. Всем клиентам мы предлагаем индивидуальное обслуживание, помогая сделать собственный неповторимый выбор. Магазин Gvozdika.by поможет Вам оформить зал для любого торжества будь это свадьба, День Рождения или просто корпоративная вечеринка. Наша команда готова выехать в любую точку Республики Беларусь и  с пониманием относится к финансовым возможностям каждого человека. Поэтому мы готовы предложить недорогие решения, экономичность которых не повлияет на парадный и торжественный вид букета или композиции."
+        "consist": "Gül kompozisiyalarının tərkibi hər bir müştəri ilə fərdi olaraq razılaşdırılır! Şirəli, eustoma, bruniya, evkalipt, qərənfil, alstromeriya, buqələm, kol gülü, kalla zanbaqları, çiçək süngəri.",
+        "description": "Mərasim salonunu çiçəklərlə bəzəmək çiçəkçilikdə xüsusi bir tendensiyadır. Xidməti inkişaf etdirən və təkmilləşdirən floristlər satışa yeni güllər əlavə edir və gül kompozisiyasında xoş təəssürat yaratmağa çalışırlar. Biz bütün müştərilərə fərdi xidmət təklif edirik, öz unikal seçimlərini etməyə kömək edirik. Gvozdika.by mağazası toy, ad günü və ya sadəcə korporativ şənlik olsun, istənilən bayram üçün zal təşkil etməyə kömək edəcək. Komandamız Belarus Respublikasının istənilən yerinə səyahət etməyə hazırdır və hər bir insanın maddi imkanlarına rəğbət bəsləyir. Buna görə də, biz ucuz həllər təklif etməyə hazırıq, onların iqtisadi effektivliyi buket və ya kompozisiyanın rəsmi və təntənəli görünüşünə təsir göstərməyəcəkdir."
       },
       {
         "id": 30,
@@ -328,8 +328,8 @@
         "discount": "26.00",
         "price": "250.00",
         "category_id": 4,
-        "consist": "Состав цветочных композиций оговариваются индивидуально с каждым заказчиком!  Суккулент, эустома, бруния, эвкалипт, гвоздика, альстромерия, хамелациум, кустовая роза, каллы, флористическая губка.",
-        "description": "Оформление торжественного зала цветами-особое направление во флористике.  Развивая и улучшая сервис, флористы добавляют в продажу новые цветы и стараются оставить хорошее впечатление от цветочной композиции. Всем клиентам мы предлагаем индивидуальное обслуживание, помогая сделать собственный неповторимый выбор. Магазин Gvozdika.by поможет Вам оформить зал для любого торжества будь это свадьба, День Рождения или просто корпоративная вечеринка. Наша команда готова выехать в любую точку Республики Беларусь и  с пониманием относится к финансовым возможностям каждого человека. Поэтому мы готовы предложить недорогие решения, экономичность которых не повлияет на парадный и торжественный вид букета или композиции."
+        "consist": "Gül kompozisiyalarının tərkibi hər bir müştəri ilə fərdi olaraq razılaşdırılır! Şirəli, eustoma, bruniya, evkalipt, qərənfil, alstromeriya, buqələm, kol gülü, kalla zanbaqları, çiçək süngəri.",
+        "description": "Mərasim salonunu çiçəklərlə bəzəmək çiçəkçilikdə xüsusi bir tendensiyadır. Xidməti inkişaf etdirən və təkmilləşdirən floristlər satışa yeni güllər əlavə edir və gül kompozisiyasında xoş təəssürat yaratmağa çalışırlar. Biz bütün müştərilərə fərdi xidmət təklif edirik, öz unikal seçimlərini etməyə kömək edirik. Gvozdika.by mağazası toy, ad günü və ya sadəcə korporativ şənlik olsun, istənilən bayram üçün zal təşkil etməyə kömək edəcək. Komandamız Belarus Respublikasının istənilən yerinə səyahət etməyə hazırdır və hər bir insanın maddi imkanlarına rəğbət bəsləyir. Buna görə də, biz ucuz həllər təklif etməyə hazırıq, onların iqtisadi effektivliyi buket və ya kompozisiyanın rəsmi və təntənəli görünüşünə təsir göstərməyəcəkdir."
       },
       {
         "id": 31,
@@ -339,8 +339,8 @@
         "count": 1,
         "discount": "15.30",
         "category_id": 4,
-        "consist": "Состав цветочных композиций оговариваются индивидуально с каждым заказчиком!  Суккулент, эустома, бруния, эвкалипт, гвоздика, альстромерия, хамелациум, кустовая роза, каллы, флористическая губка.",
-        "description": "Оформление торжественного зала цветами-особое направление во флористике.  Развивая и улучшая сервис, флористы добавляют в продажу новые цветы и стараются оставить хорошее впечатление от цветочной композиции. Всем клиентам мы предлагаем индивидуальное обслуживание, помогая сделать собственный неповторимый выбор. Магазин Gvozdika.by поможет Вам оформить зал для любого торжества будь это свадьба, День Рождения или просто корпоративная вечеринка. Наша команда готова выехать в любую точку Республики Беларусь и  с пониманием относится к финансовым возможностям каждого человека. Поэтому мы готовы предложить недорогие решения, экономичность которых не повлияет на парадный и торжественный вид букета или композиции."
+        "consist": "Gül kompozisiyalarının tərkibi hər bir müştəri ilə fərdi olaraq razılaşdırılır! Şirəli, eustoma, bruniya, evkalipt, qərənfil, alstromeriya, buqələm, kol gülü, kalla zanbaqları, çiçək süngəri.",
+        "description": "Mərasim salonunu çiçəklərlə bəzəmək çiçəkçilikdə xüsusi bir tendensiyadır. Xidməti inkişaf etdirən və təkmilləşdirən floristlər satışa yeni güllər əlavə edir və gül kompozisiyasında xoş təəssürat yaratmağa çalışırlar. Biz bütün müştərilərə fərdi xidmət təklif edirik, öz unikal seçimlərini etməyə kömək edirik. Gvozdika.by mağazası toy, ad günü və ya sadəcə korporativ şənlik olsun, istənilən bayram üçün zal təşkil etməyə kömək edəcək. Komandamız Belarus Respublikasının istənilən yerinə səyahət etməyə hazırdır və hər bir insanın maddi imkanlarına rəğbət bəsləyir. Buna görə də, biz ucuz həllər təklif etməyə hazırıq, onların iqtisadi effektivliyi buket və ya kompozisiyanın rəsmi və təntənəli görünüşünə təsir göstərməyəcəkdir."
       },
       {
         "id": 32,
@@ -350,8 +350,8 @@
         "count": 1,
         "price": "130.00",
         "category_id": 4,
-        "consist": "Состав цветочных композиций оговариваются индивидуально с каждым заказчиком!  Суккулент, эустома, бруния, эвкалипт, гвоздика, альстромерия, хамелациум, кустовая роза, каллы, флористическая губка.",
-        "description": "Оформление торжественного зала цветами-особое направление во флористике.  Развивая и улучшая сервис, флористы добавляют в продажу новые цветы и стараются оставить хорошее впечатление от цветочной композиции. Всем клиентам мы предлагаем индивидуальное обслуживание, помогая сделать собственный неповторимый выбор. Магазин Gvozdika.by поможет Вам оформить зал для любого торжества будь это свадьба, День Рождения или просто корпоративная вечеринка. Наша команда готова выехать в любую точку Республики Беларусь и  с пониманием относится к финансовым возможностям каждого человека. Поэтому мы готовы предложить недорогие решения, экономичность которых не повлияет на парадный и торжественный вид букета или композиции."
+        "consist": "Gül kompozisiyalarının tərkibi hər bir müştəri ilə fərdi olaraq razılaşdırılır! Şirəli, eustoma, bruniya, evkalipt, qərənfil, alstromeriya, buqələm, kol gülü, kalla zanbaqları, çiçək süngəri.",
+        "description": "Mərasim salonunu çiçəklərlə bəzəmək çiçəkçilikdə xüsusi bir tendensiyadır. Xidməti inkişaf etdirən və təkmilləşdirən floristlər satışa yeni güllər əlavə edir və gül kompozisiyasında xoş təəssürat yaratmağa çalışırlar. Biz bütün müştərilərə fərdi xidmət təklif edirik, öz unikal seçimlərini etməyə kömək edirik. Gvozdika.by mağazası toy, ad günü və ya sadəcə korporativ şənlik olsun, istənilən bayram üçün zal təşkil etməyə kömək edəcək. Komandamız Belarus Respublikasının istənilən yerinə səyahət etməyə hazırdır və hər bir insanın maddi imkanlarına rəğbət bəsləyir. Buna görə də, biz ucuz həllər təklif etməyə hazırıq, onların iqtisadi effektivliyi buket və ya kompozisiyanın rəsmi və təntənəli görünüşünə təsir göstərməyəcəkdir."
       },
       {
         "id": 33,
@@ -361,8 +361,8 @@
         "discount": null,
         "price": "99.00",
         "category_id": 5,
-        "consist": "Гортензия темно-розовая",
-        "description": "В разделе «Срезанные цветы» вы можете выбрать понравившиеся цветы, а наши флористы оформят их в букет."
+        "consist": "Hidrangea tünd çəhrayı",
+        "description": "Kəsilmiş çiçəklər bölməsində bəyəndiyiniz gülləri seçə bilərsiniz və çiçəkçilərimiz onları buket şəklində düzəcəklər."
       },
       {
         "id": 34,
@@ -372,8 +372,8 @@
         "count": 1,
         "discount": null,
         "category_id": 5,
-        "consist": "Пионы нежно-розовые",
-        "description": "В разделе «Срезанные цветы» вы можете выбрать понравившиеся цветы, а наши флористы оформят их в букет."
+        "consist": "Peonies yumşaq çəhrayı",
+        "description": "Kəsilmiş çiçəklər bölməsində bəyəndiyiniz gülləri seçə bilərsiniz və çiçəkçilərimiz onları buket şəklində düzəcəklər."
       },
       {
         "id": 35,
@@ -383,8 +383,8 @@
         "count": 1,
         "price": "140.40",
         "category_id": 5,
-        "consist": "Пионы белые",
-        "description": "В разделе «Срезанные цветы» вы можете выбрать понравившиеся цветы, а наши флористы оформят их в букет."
+        "consist": "Peonies ağ",
+        "description": "Kəsilmiş çiçəklər bölməsində bəyəndiyiniz gülləri seçə bilərsiniz və çiçəkçilərimiz onları buket şəklində düzəcəklər."
       },
       {
         "id": 36,
@@ -394,8 +394,8 @@
         "count": 1,
         "price": "160.00",
         "category_id": 5,
-        "consist": "Протея Венус",
-        "description": "В разделе «Срезанные цветы» вы можете выбрать понравившиеся цветы, а наши флористы оформят их в букет."
+        "consist": "Protea Venera",
+        "description": "Kəsilmiş çiçəklər bölməsində bəyəndiyiniz gülləri seçə bilərsiniz və çiçəkçilərimiz onları buket şəklində düzəcəklər."
       },
       {
         "id": 37,
@@ -405,89 +405,89 @@
         "count": 1,
         "discount": null,
         "category_id": 5,
-        "consist": "Лилия розовая",
-        "description": "В разделе «Срезанные цветы» вы можете выбрать понравившиеся цветы, а наши флористы оформят их в букет."
+        "consist": "Çəhrayı zanbaq",
+        "description": "Kəsilmiş çiçəklər bölməsində bəyəndiyiniz gülləri seçə bilərsiniz və çiçəkçilərimiz onları buket şəklində düzəcəklər."
       },
       {
         "id": 38,
-        "title": "Каллы белые",
+        "title": "Ağ Callas",
         "img_id": 38,
         "count": 1,
         "discount": "6.9",
         "price": "128.20",
         "category_id": 5,
-        "consist": "Каллы белые",
-        "description": "В разделе «Срезанные цветы» вы можете выбрать понравившиеся цветы, а наши флористы оформят их в букет."
+        "consist": "Ağ Callas",
+        "description": "Kəsilmiş çiçəklər bölməsində bəyəndiyiniz gülləri seçə bilərsiniz və çiçəkçilərimiz onları buket şəklində düzəcəklər."
       },
       {
         "id": 39,
-        "title": "Эустома белая",
+        "title": "Ağ Eustoma",
         "img_id": 39,
         "discount": null,
         "count": 1,
         "price": "19.50",
         "category_id": 5,
-        "consist": "Эустома белая",
-        "description": "В разделе «Срезанные цветы» вы можете выбрать понравившиеся цветы, а наши флористы оформят их в букет."
+        "consist": "Ağ Eustoma",
+        "description": "Kəsilmiş çiçəklər bölməsində bəyəndiyiniz gülləri seçə bilərsiniz və çiçəkçilərimiz onları buket şəklində düzəcəklər."
       },
       {
         "id": 40,
-        "title": "Ранункулюс белый",
+        "title": "Ağ ranunculus",
         "img_id": 40,
         "price": "139.00",
         "count": 1,
         "discount": "11.80",
         "category_id": 5,
-        "consist": "Ранункулюс белый",
-        "description": "В разделе «Срезанные цветы» вы можете выбрать понравившиеся цветы, а наши флористы оформят их в букет."
+        "consist": "Ağ ranunculus",
+        "description": "Kəsilmiş çiçəklər bölməsində bəyəndiyiniz gülləri seçə bilərsiniz və çiçəkçilərimiz onları buket şəklində düzəcəklər."
       },
       {
         "id": 41,
-        "title": "Лимониум фиолетовый",
+        "title": "Bənövşəyi Limonium",
         "discount": null,
         "count": 1,
         "img_id": 41,
         "price": "48.70",
         "category_id": 5,
-        "consist": "Лимониум фиолетовый",
-        "description": "В разделе «Срезанные цветы» вы можете выбрать понравившиеся цветы, а наши флористы оформят их в букет."
+        "consist": "Bənövşəyi Limonium",
+        "description": "Kəsilmiş çiçəklər bölməsində bəyəndiyiniz gülləri seçə bilərsiniz və çiçəkçilərimiz onları buket şəklində düzəcəklər."
       },
       {
         "id": 42,
-        "title": "Хамелациум розовый",
+        "title": "Çəhrayı Xamelasium",
         "img_id": 42,
         "price": "98.30",
         "count": 1,
         "discount": "6.4",
         "category_id": 5,
-        "consist": "Хамелациум розовый",
-        "description": "В разделе «Срезанные цветы» вы можете выбрать понравившиеся цветы, а наши флористы оформят их в букет."
+        "consist": "Çəhrayı Xamelasium",
+        "description": "Kəsilmiş çiçəklər bölməsində bəyəndiyiniz gülləri seçə bilərsiniz və çiçəkçilərimiz onları buket şəklində düzəcəklər."
       },
       {
         "id": 43,
-        "title": "Конфеты Toffifee",
+        "title": "Toffifee konfeti",
         "img_id": 43,
         "price": "68.50",
         "count": 1,
         "discount": null,
         "category_id": 6,
-        "consist": "",
+        "consist": "Toffifee konfeti",
         "description": ""
       },
       {
         "id": 44,
-        "title": "Лучшей подруге",
+        "title": "Ən yaxşı dostuna",
         "discount": null,
         "img_id": 44,
         "price": "11.50",
         "count": 1,
         "category_id": 6,
-        "consist": "",
+        "consist": "Ən yaxşı dostuna",
         "description": ""
       },
       {
         "id": 45,
-        "title": "Конфеты Raffaello",
+        "title": "Raffaello konfeti",
         "img_id": 45,
         "price": "19.40",
         "count": 1,
@@ -504,40 +504,40 @@
         "count": 1,
         "price": "14.70",
         "category_id": 6,
-        "consist": "",
+        "consist": "Kinder Chocolate",
         "description": ""
       },
       {
         "id": 47,
-        "title": "Mix candy",
+        "title": "Qarışıq şirniyyat",
         "discount": null,
         "img_id": 47,
         "count": 1,
         "price": "3.20",
         "category_id": 6,
-        "consist": "",
+        "consist": "Qarışıq şirniyyat",
         "description": ""
       },
       {
         "id": 48,
-        "title": "New year candy",
+        "title": "Yeni il şirniyyatı",
         "img_id": 48,
         "count": 1,
         "discount": null,
         "price": "7.20",
         "category_id": 6,
-        "consist": "",
+        "consist": "Yeni il şirniyyatı",
         "description": ""
       },
       {
         "id": 49,
-        "title": "Barni Candy",
+        "title": "Barni kökəsi",
         "img_id": 49,
         "count": 1,
         "price": "6.00",
         "discount": null,
         "category_id": 6,
-        "consist": "",
+        "consist": "Barni kökəsi",
         "description": ""
       },
       {
@@ -548,7 +548,7 @@
         "discount": "16.00",
         "price": "19.00",
         "category_id": 6,
-        "consist": "",
+        "consist": "Snickers",
         "description": ""
       },
       {
@@ -559,272 +559,272 @@
         "count": 1,
         "discount": null,
         "category_id": 6,
-        "consist": "",
+        "consist": "Bounty",
         "description": ""
       },
       {
         "id": 52,
-        "title": "Шар фольгированный цифры",
+        "title": "Folqalanmış şar fiqurları",
         "discount": null,
         "img_id": 52,
         "count": 1,
         "price": "25.00",
         "category_id": 7,
-        "consist": "Шар фольгированный (в ассортименте), 86см, гелий, лента.",
-        "description": "Праздничные дни хочется украсить красивыми воздушными шарами, с охапкой шариков праздник станет ещё ярче. Только взгляните на эти цвета — идеальная идея для праздничного настроения!"
+        "consist": "Folqalanmış şar fiqurları (çeşiddə), 86sm, helium, lent.",
+        "description": "Bayramları gözəl şarlar ilə bəzəmək istəyirəm, bir dəstə şarla bayram daha da parlaq olacaq. Sadəcə bu rənglərə baxın - bayram əhval-ruhiyyəsi üçün mükəmməl fikir!"
       },
       {
         "id": 53,
-        "title": "Шар фольгированный фигурный",
+        "title": "Folqalanmış şar fiqurları",
         "img_id": 53,
         "count": 1,
         "discount": "2.4",
         "price": "18.00",
         "category_id": 7,
-        "consist": "Шар фольгированный фигурный (в ассортименте), гелий, лента.",
-        "description": "Праздничные дни хочется украсить красивыми воздушными шарами, с охапкой шариков праздник станет ещё ярче. Только взгляните на эти цвета — идеальная идея для праздничного настроения!"
+        "consist": "Folqalanmış şar fiqurları (çeşiddə), 86sm, helium, lent.",
+        "description": "Bayramları gözəl şarlar ilə bəzəmək istəyirəm, bir dəstə şarla bayram daha da parlaq olacaq. Sadəcə bu rənglərə baxın - bayram əhval-ruhiyyəsi üçün mükəmməl fikir!"
       },
       {
         "id": 54,
-        "title": "Шар фольгированный сердце",
+        "title": "Folqalanmış şar fiqurları",
         "discount": null,
         "img_id": 54,
         "count": 1,
         "price": "15.20",
         "category_id": 7,
-        "consist": "Шар фольгированный сердце (в ассортименте), гелий, лента.",
-        "description": "Праздничные дни хочется украсить красивыми воздушными шарами, с охапкой шариков праздник станет ещё ярче. Только взгляните на эти цвета — идеальная идея для праздничного настроения!"
+        "consist": "Folqalanmış şar fiqurları (çeşiddə), 86sm, helium, lent.",
+        "description": "Bayramları gözəl şarlar ilə bəzəmək istəyirəm, bir dəstə şarla bayram daha da parlaq olacaq. Sadəcə bu rənglərə baxın - bayram əhval-ruhiyyəsi üçün mükəmməl fikir!"
       },
       {
         "id": 55,
-        "title": "Шар гелиевый с рисунком №9",
+        "title": "9 nömrəli naxışlı helium balonu",
         "img_id": 55,
         "discount": "3.00",
         "count": 1,
         "price": "17.80",
         "category_id": 7,
-        "consist": "Шар из латекса12/30см (цвет в ассортименте)  , гелий, лента.",
-        "description": "Праздничные дни хочется украсить красивыми воздушными шарами, с охапкой шариков праздник станет ещё ярче. Только взгляните на эти цвета — идеальная идея для праздничного настроения!"
+        "consist": "Lateks şar 12/30sm (çeşiddə rəng), helium, lent.",
+        "description": "Bayramları gözəl şarlar ilə bəzəmək istəyirəm, bir dəstə şarla bayram daha da parlaq olacaq. Sadəcə bu rənglərə baxın - bayram əhval-ruhiyyəsi üçün mükəmməl fikir!"
       },
       {
         "id": 56,
-        "title": "Шар гелиевый с рисунком №8",
+        "title": "8 nömrəli naxışlı helium balonu",
         "discount": null,
         "img_id": 56,
         "count": 1,
         "price": "5.90",
         "category_id": 7,
-        "consist": "Шар из латекса12/30см (цвет в ассортименте)  , гелий, лента.",
-        "description": "Праздничные дни хочется украсить красивыми воздушными шарами, с охапкой шариков праздник станет ещё ярче. Только взгляните на эти цвета — идеальная идея для праздничного настроения!"
+        "consist": "Lateks şar 12/30sm (çeşiddə rəng), helium, lent.",
+        "description": "Bayramları gözəl şarlar ilə bəzəmək istəyirəm, bir dəstə şarla bayram daha da parlaq olacaq. Sadəcə bu rənglərə baxın - bayram əhval-ruhiyyəsi üçün mükəmməl fikir!"
       },
       {
         "id": 57,
-        "title": "Шар гелиевый с рисунком №7",
+        "title": "7 nömrəli naxışlı helium balonu",
         "img_id": 57,
         "count": 1,
         "discount": null,
         "price": "8.90",
         "category_id": 7,
-        "consist": "Шар из латекса12/30см (цвет в ассортименте)  , гелий, лента.",
-        "description": "Праздничные дни хочется украсить красивыми воздушными шарами, с охапкой шариков праздник станет ещё ярче. Только взгляните на эти цвета — идеальная идея для праздничного настроения!"
+        "consist": "Lateks şar 12/30sm (çeşiddə rəng), helium, lent.",
+        "description": "Bayramları gözəl şarlar ilə bəzəmək istəyirəm, bir dəstə şarla bayram daha da parlaq olacaq. Sadəcə bu rənglərə baxın - bayram əhval-ruhiyyəsi üçün mükəmməl fikir!"
       },
       {
         "id": 58,
-        "title": "Шар гелиевый с рисунком №5",
+        "title": "6 nömrəli naxışlı helium balonu",
         "img_id": 58,
         "count": 1,
         "discount": null,
         "price": "13.90",
         "category_id": 7,
-        "consist": "Шар из латекса12/30см (цвет в ассортименте)  , гелий, лента.",
-        "description": "Праздничные дни хочется украсить красивыми воздушными шарами, с охапкой шариков праздник станет ещё ярче. Только взгляните на эти цвета — идеальная идея для праздничного настроения!"
+        "consist": "Lateks şar 12/30sm (çeşiddə rəng), helium, lent.",
+        "description": "Bayramları gözəl şarlar ilə bəzəmək istəyirəm, bir dəstə şarla bayram daha da parlaq olacaq. Sadəcə bu rənglərə baxın - bayram əhval-ruhiyyəsi üçün mükəmməl fikir!"
       },
       {
         "id": 59,
-        "title": "Шар гелиевый с рисунком №24",
+        "title": "24 nömrəli naxışlı helium balonu",
         "img_id": 59,
         "count": 1,
         "price": "23.90",
         "discount": null,
         "category_id": 7,
-        "consist": "Шар из латекса12/30см (цвет в ассортименте)  , гелий, лента.",
-        "description": "Праздничные дни хочется украсить красивыми воздушными шарами, с охапкой шариков праздник станет ещё ярче. Только взгляните на эти цвета — идеальная идея для праздничного настроения!"
+        "consist": "Lateks şar 12/30sm (çeşiddə rəng), helium, lent.",
+        "description": "Bayramları gözəl şarlar ilə bəzəmək istəyirəm, bir dəstə şarla bayram daha da parlaq olacaq. Sadəcə bu rənglərə baxın - bayram əhval-ruhiyyəsi üçün mükəmməl fikir!"
       },
       {
         "id": 60,
-        "title": "Шар гелиевый с рисунком №3",
+        "title": "3 nömrəli naxışlı helium balonu",
         "img_id": 60,
         "count": 1,
         "price": "17.90",
         "discount": "4.30",
         "category_id": 7,
-        "consist": "Шар из латекса12/30см (цвет в ассортименте)  , гелий, лента.",
-        "description": "Праздничные дни хочется украсить красивыми воздушными шарами, с охапкой шариков праздник станет ещё ярче. Только взгляните на эти цвета — идеальная идея для праздничного настроения!"
+        "consist": "Lateks şar 12/30sm (çeşiddə rəng), helium, lent.",
+        "description": "Bayramları gözəl şarlar ilə bəzəmək istəyirəm, bir dəstə şarla bayram daha da parlaq olacaq. Sadəcə bu rənglərə baxın - bayram əhval-ruhiyyəsi üçün mükəmməl fikir!"
       },
       {
         "id": 61,
-        "title": "Шар гелиевый с рисунком №23",
+        "title": "23 nömrəli naxışlı helium balonu",
         "img_id": 61,
         "price": "3.90",
         "count": 1,
         "category_id": 7,
         "discount": null,
-        "consist": "Шар из латекса12/30см (цвет в ассортименте)  , гелий, лента.",
-        "description": "Праздничные дни хочется украсить красивыми воздушными шарами, с охапкой шариков праздник станет ещё ярче. Только взгляните на эти цвета — идеальная идея для праздничного настроения!"
+        "consist": "Lateks şar 12/30sm (çeşiddə rəng), helium, lent.",
+        "description": "Bayramları gözəl şarlar ilə bəzəmək istəyirəm, bir dəstə şarla bayram daha da parlaq olacaq. Sadəcə bu rənglərə baxın - bayram əhval-ruhiyyəsi üçün mükəmməl fikir!"
       },
       {
         "id": 62,
-        "title": "Французкая роза белого цвета",
+        "title": "fransız gülü ağ",
         "img_id": 62,
         "count": 1,
         "price": "36.00",
         "discount": null,
         "category_id": 8,
-        "consist": " ",
-        "description": "Французская роза это обычный цветок, который флорист по спирали выворачивает каждый лепесток в ручную. После чего получается пышная и объемная роза."
+        "consist": "fransız gülü ağ",
+        "description": "Fransız qızılgülü adi bir çiçəkdir ki, florist hər bir ləçəyi spiral şəklində əl ilə çevirir. Bundan sonra sulu və həcmli bir gül əldə edilir."
       },
       {
         "id": 63,
-        "title": "Роза Эсперанса",
+        "title": "Esperanza qızıl gülü",
         "img_id": 63,
         "count": 1,
         "price": "34.00",
         "category_id": 8,
         "discount": null,
         "consist": " ",
-        "description": "Роза со средним бутоном , у неё обычно большое количество листвы и небольшое количество шипов. Обладает хорошей стойкостью после среза при правильном уходе. Каждый день обновляйте срез минимум на 1-2 сантиметра, меняйте воду в вазе на отстоянную и розы Esperance смогут порадовать Вас своим видом гораздо дольше:)"
+        "description": "Orta qönçəli gül, adətən çox miqdarda yarpaqları və az sayda tikanları var. Düzgün qayğı ilə kəsildikdən sonra yaxşı dayanıqlığa malikdir. Hər gün kəsimi ən azı 1-2 santimetr yeniləyin, vazadakı suyu oturmuş vəziyyətdə dəyişdirin və Esperance qızılgülləri görünüşü ilə sizi daha uzun müddət sevindirə biləcək :)"
       },
       {
         "id": 64,
-        "title": "Роза Анабель",
+        "title": "Anabel qızıl gülü",
         "img_id": 64,
         "discount": null,
         "count": 1,
         "price": "29.19",
         "category_id": 8,
         "consist": " ",
-        "description": "Анабель белая роза со средним бутоном , у неё обычно большое количество листвы и небольшое количество шипов. Обладает хорошей стойкостью после среза при правильном уходе. Каждый день обновляйте срез минимум на 12 сантиметра, меняйте воду в вазе на отстоянную и розы Anabel смогут порадовать Вас своим видом гораздо дольше:)"
+        "description": "Anabelle orta tumurcuqlu ağ güldür, adətən çoxlu yarpaqları və az sayda tikanları var. Düzgün qayğı ilə kəsildikdən sonra yaxşı dayanıqlığa malikdir. Hər gün kəsimi ən azı 12 santimetr yeniləyin, vazadakı suyu oturmuş vəziyyətdə dəyişdirin və Anabel qızılgülləri görünüşü ilə sizi daha uzun müddət sevindirə biləcək :)"
       },
       {
         "id": 65,
-        "title": "Роза Казанова",
+        "title": "Kazanova  qızıl gülü",
         "img_id": 65,
         "price": "3.19",
         "count": 1,
         "discount": null,
         "category_id": 8,
         "consist": " ",
-        "description": "Казанова розовая роза со средним бутоном, у неё достаточно большое количество листвы и небольшое количество шипов. Обладает хорошей стойкостью после среза при правильном уходе. Каждый день обновляйте срез минимум на 12 сантиметра, меняйте воду в вазе на отстоянную и розы Casanova смогут порадовать Вас своим видом гораздо дольше:)"
+        "description": "Casanova orta qönçəli çəhrayı gül, kifayət qədər çox miqdarda yarpaqları və az sayda tikanları var. Düzgün qayğı ilə kəsildikdən sonra yaxşı dayanıqlığa malikdir. Hər gün kəsimi ən azı 12 santimetr yeniləyin, vazadakı suyu oturmuş vəziyyətdə dəyişdirin və Casanova qızılgülləri görünüşü ilə sizi daha uzun müddət sevindirə biləcək :)"
       },
       {
         "id": 66,
-        "title": "Роза Пенни Лейн",
+        "title": "Penny Lane qızıl gülü",
         "count": 1,
         "img_id": 66,
         "discount": "5.6",
         "price": "36.19",
         "category_id": 8,
         "consist": " ",
-        "description": "Пенни Лейн желтая роза как минимум со средним плотным бутоном и массивным стеблем, у неё обычно большое количество листвы и минимальное количество шипов. Обладает хорошей стойкостью после среза при правильном уходе. Каждый день обновляйте срез минимум на 12 сантиметра, меняйте воду в вазе на отстоянную и розы Penny Lane смогут порадовать Вас своим видом гораздо дольше:)"
+        "description": "Penny Lane, ən azı orta sıx qönçə və kütləvi bir gövdəsi olan sarı bir güldür, adətən çox miqdarda yarpaqları və minimal sayda tikanları var. Düzgün qayğı ilə kəsildikdən sonra yaxşı dayanıqlığa malikdir. Hər gün kəsimi ən azı 12 santimetr yeniləyin, vazadakı suyu oturmuş vəziyyətdə dəyişdirin və Penny Lane qızılgülləri görünüşü ilə sizi daha uzun müddət sevindirə biləcək :)"
       },
       {
         "id": 67,
-        "title": "Кустовая роза Динара",
+        "title": "Dinara qızıl gülü",
         "img_id": 67,
         "count": 1,
         "discount": null,
         "price": "42.00",
         "category_id": 8,
         "consist": " ",
-        "description": "Роза со средним бутоном , у неё обычно большое количество листвы и небольшое количество шипов. Обладает хорошей стойкостью после среза при правильном уходе.Каждый день обновляйте срез минимум на 1-2 сантиметра, меняйте воду в вазе на отстоянную и розы Avalanche Peach смогут порадовать Вас своим видом гораздо дольше:)"
+        "description": "Orta qönçəli gül, adətən çox miqdarda yarpaqları və az sayda tikanları var. Düzgün qulluqla kəsildikdən sonra yaxşı dayanıqlıdır.Hər gün kəsimi ən azı 1-2 santimetr yeniləyin, vazadakı suyu oturmuş vəziyyətə gətirin və Avalanche Şaftalı qızılgülləri öz görünüşü ilə sizi daha uzun müddət sevindirə biləcək :)"
       },
       {
         "id": 68,
-        "title": "Роза Фридом Престиж",
+        "title": "Azadlıq Prestiji qızıl gülü",
         "img_id": 68,
         "price": "49.80",
         "count": 1,
         "discount": null,
         "category_id": 8,
         "consist": " ",
-        "description": "Роза со средним бутоном , у неё обычно большое количество листвы и небольшое количество шипов. Обладает хорошей стойкостью после среза при правильном уходе. Каждый день обновляйте срез минимум на 1-2 сантиметра, меняйте воду в вазе на отстоянную и розы Freedom Prestige смогут порадовать Вас своим видом гораздо дольше:)"
+        "description": "Orta qönçəli gül, adətən çox miqdarda yarpaqları və az sayda tikanları var. Düzgün qulluqla kəsildikdən sonra yaxşı dayanıqlıdır.Hər gün kəsimi ən azı 1-2 santimetr yeniləyin, vazadakı suyu oturmuş vəziyyətə gətirin və Avalanche Şaftalı qızılgülləri öz görünüşü ilə sizi daha uzun müddət sevindirə biləcək :)"
       },
       {
         "id": 69,
-        "title": "Роза Хартс",
+        "title": "Xarts qızıl gülü",
         "img_id": 69,
         "discount": null,
         "price": "46.70",
         "count": 1,
         "category_id": 8,
         "consist": " ",
-        "description": "Роза со средним бутоном , у неё обычно большое количество листвы и небольшое количество шипов. Обладает хорошей стойкостью после среза при правильном уходе. Каждый день обновляйте срез минимум на 1-2 сантиметра, меняйте воду в вазе на отстоянную и розы Freedom Prestige смогут порадовать Вас своим видом гораздо дольше:)"
+        "description": "Orta qönçəli gül, adətən çox miqdarda yarpaqları və az sayda tikanları var. Düzgün qulluqla kəsildikdən sonra yaxşı dayanıqlıdır.Hər gün kəsimi ən azı 1-2 santimetr yeniləyin, vazadakı suyu oturmuş vəziyyətə gətirin və Avalanche Şaftalı qızılgülləri öz görünüşü ilə sizi daha uzun müddət sevindirə biləcək :)"
       },
       {
         "id": 70,
-        "title": "Роза Каралуна",
+        "title": "Karaluna qızıl gülü",
         "img_id": 70,
         "count": 1,
         "discount": "16",
         "price": "58.20",
         "category_id": 8,
         "consist": " ",
-        "description": "Роза со средним бутоном , у неё обычно большое количество листвы и небольшое количество шипов. Обладает хорошей стойкостью после среза при правильном уходе. Каждый день обновляйте срез минимум на 1-2 сантиметра, меняйте воду в вазе на отстоянную и розы Freedom Prestige смогут порадовать Вас своим видом гораздо дольше:)"
+        "description": "Orta qönçəli gül, adətən çox miqdarda yarpaqları və az sayda tikanları var. Düzgün qulluqla kəsildikdən sonra yaxşı dayanıqlıdır.Hər gün kəsimi ən azı 1-2 santimetr yeniləyin, vazadakı suyu oturmuş vəziyyətə gətirin və Avalanche Şaftalı qızılgülləri öz görünüşü ilə sizi daha uzun müddət sevindirə biləcək :)"
       },
       {
         "id": 71,
-        "title": "Роза Аваланш Пич",
+        "title": "Avalanche Piç qızıl gülü",
         "img_id": 71,
         "count": 1,
         "discount": null,
         "price": "33.00",
         "category_id": 8,
         "consist": " ",
-        "description": "Аваланш Пич персиковая роза со средним бутоном , у неё обычно большое количество листвы и небольшое количество шипов. Обладает хорошей стойкостью после среза при правильном уходе. Каждый день обновляйте срез минимум на 12 сантиметра, меняйте воду в вазе на отстоянную и розы Аваланш Пич смогут порадовать Вас своим видом гораздо дольше:)"
+        "description": "Avalanche Şaftalı orta tumurcuqlu şaftalı gülüdür, adətən çoxlu yarpaqları və az sayda tikanları var. Düzgün qayğı ilə kəsildikdən sonra yaxşı dayanıqlığa malikdir. Hər gün kəsimi ən azı 12 santimetr yeniləyin, vazadakı suyu yerləşmiş vəziyyətdə dəyişdirin və Avalanche Şaftalı qızılgülləri görünüşü ilə sizi daha uzun müddət sevindirə biləcək :)"
       },
       {
         "id": 72,
-        "title": "Лепестки роз",
+        "title": "Qızılgül ləçəkləri",
         "img_id": 72,
         "count": 1,
         "discount": null,
         "price": "45.00",
         "category_id": 8,
-        "consist": "500 шт лепестков.",
-        "description": "Лепестки в одном пакете могут быть разного цвета или одного цвета."
+        "consist": "500 ləçək.",
+        "description": "Bir paketdəki ləçəklər müxtəlif rənglərdə və ya eyni rəngdə ola bilər."
       },
       {
         "id": 73,
-        "title": "Роза Аваланш Пич",
+        "title": "Avalanche Piç qızıl gülü",
         "img_id": 73,
         "price": "29.99",
         "count": 1,
         "discount": null,
         "category_id": 8,
         "consist": " ",
-        "description": "Роза со средним бутоном , у неё обычно большое количество листвы и небольшое количество шипов. Обладает хорошей стойкостью после среза при правильном уходе. Каждый день обновляйте срез минимум на 1-2 сантиметра, меняйте воду в вазе на отстоянную и розы  смогут порадовать Вас своим видом гораздо дольше:)"
+        "description": "Orta qönçəli gül, adətən çox miqdarda yarpaqları və az sayda tikanları var. Düzgün qayğı ilə kəsildikdən sonra yaxşı dayanıqlığa malikdir. Hər gün kəsimi ən azı 1-2 santimetr yeniləyin, vazadakı suyu oturmuş vəziyyətdə dəyişdirin və qızılgüllər görünüşü ilə sizi daha uzun müddət sevindirə biləcəklər :)"
       },
       {
         "id": 74,
-        "title": "Кустовая роза Грин Глоу",
+        "title": "Qrin Qlou qızıl gülü",
         "img_id": 74,
         "count": 1,
         "price": "34.30",
         "discount": null,
         "category_id": 8,
         "consist": " ",
-        "description": "Роза со средним бутоном , у неё обычно большое количество листвы и небольшое количество шипов. Обладает хорошей стойкостью после среза при правильном уходе. Каждый день обновляйте срез минимум на 1-2 сантиметра, меняйте воду в вазе на отстоянную и розы  смогут порадовать Вас своим видом гораздо дольше:)"
+        "description": "Orta qönçəli gül, adətən çox miqdarda yarpaqları və az sayda tikanları var. Düzgün qayğı ilə kəsildikdən sonra yaxşı dayanıqlığa malikdir. Hər gün kəsimi ən azı 1-2 santimetr yeniləyin, vazadakı suyu oturmuş vəziyyətdə dəyişdirin və qızılgüllər görünüşü ilə sizi daha uzun müddət sevindirə biləcəklər :)"
       },
       {
         "id": 75,
-        "title": "Кустовая роза Бэйби",
+        "title": "Baby qızıl gülü",
         "img_id": 75,
         "discount": "1.50",
         "count": 1,
         "price": "35.80",
         "category_id": 8,
         "consist": " ",
-        "description": "Роза со средним бутоном , у неё обычно большое количество листвы и небольшое количество шипов. Обладает хорошей стойкостью после среза при правильном уходе. Каждый день обновляйте срез минимум на 1-2 сантиметра, меняйте воду в вазе на отстоянную и розы  смогут порадовать Вас своим видом гораздо дольше:)"
+        "description": "Orta qönçəli gül, adətən çox miqdarda yarpaqları və az sayda tikanları var. Düzgün qayğı ilə kəsildikdən sonra yaxşı dayanıqlığa malikdir. Hər gün kəsimi ən azı 1-2 santimetr yeniləyin, vazadakı suyu oturmuş vəziyyətdə dəyişdirin və qızılgüllər görünüşü ilə sizi daha uzun müddət sevindirə biləcəklər :)"
       }
     ],
     "RU": [
@@ -1663,133 +1663,133 @@
         "discount": "15.00",
         "price": "160.00",
         "category_id": 1,
-        "consist": "Кустовая роза (в ассортименте).",
-        "description": "Букет из роз-всегда прекрасная классика. Выбрав розу Вы никогда не ошибётесь с подарком."
+        "consist": "51 roses (mix) (in assortment).",
+        "description": "A bouquet of roses is always a beautiful classic. Choosing a rose, you will never go wrong with a gift."
       },
       {
         "id": 2,
-        "title": "101 роза микс (розово-кремовая)",
+        "title": "101 rose mix (pink-cream)",
         "discount": "32",
         "count": 1,
         "img_id": 2,
         "price": "157.99",
         "category_id": 1,
-        "consist": "Кустовая роза (в ассортименте).",
-        "description": "Букет из роз-всегда прекрасная классика. Выбрав розу Вы никогда не ошибётесь с подарком."
+        "consist": "Shrub rose (in assortment).",
+        "description": "A bouquet of roses is always a beautiful classic. Choosing a rose, you will never go wrong with a gift."
       },
       {
         "id": 3,
-        "title": "21 ветка кустовой розы Файер Воркс",
+        "title": "21 branches spray roses Fire Works",
         "img_id": 3,
         "count": 1,
         "discount": "12.5",
         "price": "156.90",
         "category_id": 1,
-        "consist": "Кустовая роза (в ассортименте).",
-        "description": "Букет из роз-всегда прекрасная классика. Выбрав розу Вы никогда не ошибётесь с подарком."
+        "consist": "Shrub rose (in assortment).",
+        "description": "A bouquet of roses is always a beautiful classic. Choosing a rose, you will never go wrong with a gift."
       },
       {
         "id": 4,
-        "title": "Букет из 9 веток лилии",
+        "title": "Bouquet of 9 lily branches",
         "img_id": 4,
         "discount": "35",
         "count": 1,
         "price": "189.00",
         "category_id": 1,
-        "consist": "Лилия (в ассортименте), лента.",
-        "description": "Монобукеты из хризантемы, лилии, альстромерии, гербер, подсолнухов, ирисов, пионов не оставляет равнодушными даже самых привередливых."
+        "consist": "Lily (in assortment), ribbon.",
+        "description": "Mono-bouquets of chrysanthemums, lilies, alstroemerias, gerberas, sunflowers, irises, peonies does not leave indifferent even the most fastidious."
       },
       {
         "id": 5,
-        "title": "Букет из 5 пионов в упаковке",
+        "title": "Bouquet of 5 peonies in a package",
         "img_id": 5,
         "price": "169.00",
         "count": 1,
         "discount": "20",
         "category_id": 1,
-        "consist": "Пионы, упаковка/лента (цвет упаковки и ленты уточняйте).",
-        "description": "Монобукеты из хризантемы, лилии, альстромерии, гербер, подсолнухов, ирисов, пионов не оставляет равнодушными даже самых привередливых."
+        "consist": "Peonies, packaging / ribbon (please specify the color of the packaging and ribbon).",
+        "description": "Mono-bouquets of chrysanthemums, lilies, alstroemerias, gerberas, sunflowers, irises, peonies does not leave indifferent even the most fastidious."
       },
       {
         "id": 6,
-        "title": "51 роза Талея",
+        "title": "51 rose Talea",
         "img_id": 6,
         "count": 1,
         "price": "105.99",
         "discount": null,
         "category_id": 1,
-        "consist": "роза Талея(в ассортименте)",
-        "description": "Букет из роз-всегда прекрасная классика. Выбрав розу Вы никогда не ошибётесь с подарком."
+        "consist": "rose Talea (in assortment)",
+        "description": "A bouquet of roses is always a beautiful classic. Choosing a rose, you will never go wrong with a gift."
       },
       {
         "id": 7,
-        "title": "51 роза микс (бело-розовая)",
+        "title": "51 rose mix (white-pink)",
         "discount": null,
         "count": 1,
         "img_id": 7,
         "price": "15.99",
         "category_id": 1,
-        "consist": "Кустовая роза (в ассортименте).",
-        "description": "Букет из роз-всегда прекрасная классика. Выбрав розу Вы никогда не ошибётесь с подарком."
+        "consist": "Shrub rose (in assortment).",
+        "description": "A bouquet of roses is always a beautiful classic. Choosing a rose, you will never go wrong with a gift."
       },
       {
         "id": 8,
-        "title": "51 роза Казанова",
+        "title": "51 Casanova roses",
         "img_id": 8,
         "discount": "2",
         "count": 1,
         "price": "45.99",
         "category_id": 1,
-        "consist": "роза Казанова (в ассортименте).",
-        "description": "Букет из роз-всегда прекрасная классика. Выбрав розу Вы никогда не ошибётесь с подарком."
+        "consist": "rose Casanova (in assortment).",
+        "description": "A bouquet of roses is always a beautiful classic. Choosing a rose, you will never go wrong with a gift."
       },
       {
         "id": 9,
-        "title": "51 роза Анабель",
+        "title": "51 rose Anabel",
         "img_id": 9,
         "discount": "7",
         "count": 1,
         "price": "65.99",
         "category_id": 1,
-        "consist": "роза Анабель(в ассортименте).",
-        "description": "Букет из роз-всегда прекрасная классика. Выбрав розу Вы никогда не ошибётесь с подарком."
+        "consist": "rose Anabel (in assortment).",
+        "description": "A bouquet of roses is always a beautiful classic. Choosing a rose, you will never go wrong with a gift."
       },
       {
         "id": 10,
-        "title": "Букет из 7 веток кустовых роз",
+        "title": "Bouquet of 7 branches of spray roses",
         "img_id": 10,
         "discount": "6.90",
         "count": 1,
         "price": "86.90",
         "category_id": 1,
-        "consist": "Кустовая роза (в ассортименте), упаковка/лента.",
-        "description": "Букет из роз-всегда прекрасная классика. Выбрав розу Вы никогда не ошибётесь с подарком."
+        "consist": "Shrub rose (assorted), packaging/tape.",
+        "description": "A bouquet of roses is always a beautiful classic. Choosing a rose, you will never go wrong with a gift."
       },
       {
         "id": 11,
-        "title": "Букет из 5 веток кустовых роз с зеленью",
+        "title": "Bouquet of 5 branches of spray roses with greenery",
         "img_id": 11,
         "count": 1,
         "discount": "4",
         "price": "39.00",
         "category_id": 1,
-        "consist": "Кустовая роза (роза в ассортименте), фисташка, упаковка/лента.",
-        "description": "Букет из роз-всегда прекрасная классика. Выбрав розу Вы никогда не ошибётесь с подарком."
+        "consist": "Shrub rose (assorted rose), pistachio, packaging/ribbon.",
+        "description": "A bouquet of roses is always a beautiful classic. Choosing a rose, you will never go wrong with a gift."
       },
       {
         "id": 12,
-        "title": "Медвежонок серый",
+        "title": "Teddy bear gray",
         "img_id": 12,
         "discount": null,
         "count": 1,
         "price": "19.00",
         "category_id": 2,
         "consist": " ",
-        "description": "Мягкая игрушка."
+        "description": "Soft toy."
       },
       {
         "id": 13,
-        "title": "Панда",
+        "title": "Panda",
         "img_id": 13,
         "discount": null,
         "price": "25.00",
@@ -1800,7 +1800,7 @@
       },
       {
         "id": 14,
-        "title": "Медвежонок с сердцем",
+        "title": "Teddy bear with a heart",
         "img_id": 14,
         "price": "28.00",
         "discount": null,
@@ -1811,7 +1811,7 @@
       },
       {
         "id": 15,
-        "title": "Медвежонок молочный",
+        "title": "Milk Bear",
         "img_id": 15,
         "price": "48.00",
         "count": 1,
@@ -1822,7 +1822,7 @@
       },
       {
         "id": 16,
-        "title": "Медвежонок белый с сердцем",
+        "title": "Teddy bear white with a heart",
         "img_id": 16,
         "count": 1,
         "discount": null,
@@ -1833,7 +1833,7 @@
       },
       {
         "id": 17,
-        "title": "Медвежонок длинношерстный, белый",
+        "title": "Teddy bear long-haired, white",
         "img_id": 17,
         "count": 1,
         "price": "3.00",
@@ -1844,282 +1844,282 @@
       },
       {
         "id": 18,
-        "title": "Пасхальный набор из свечи и сувенирного мыла ручной работы",
+        "title": "Easter set of candles and handmade souvenir soap",
         "count": 1,
         "img_id": 18,
         "discount": null,
         "price": "49.00",
         "category_id": 2,
-        "consist": "Свеча, мыло ручной работы (зайка 80грамм, цыпленок 30грамм, яичко перепелиное 13грамм каждое), декор, упаковка/лента, Пр-во РБ.",
-        "description": "Красивое сувенирное мыло ручной работы подойдет к любому торжеству."
+        "consist": "Candle, handmade soap (bunny 80g, chicken 30g, quail egg 13g each), decor, packaging/tape, Produced in Belarus.",
+        "description": "Beautiful handmade souvenir soap is suitable for any celebration."
       },
       {
         "id": 19,
-        "title": "Букет№9",
+        "title": "Bouquet №9",
         "img_id": 19,
         "count": 1,
         "price": "18.00",
         "discount": null,
         "category_id": 3,
         "consist": " ",
-        "description": "Важные дни хочется украсить красивыми цветами, но с этим букетом они станут ещё ярче. Только взгляните на эти цветы — идеальная идея для праздничного настроения!"
+        "description": "I want to decorate important days with beautiful flowers, but with this bouquet they will become even brighter. Just look at these flowers - the perfect idea for a festive mood!"
       },
       {
         "id": 20,
-        "title": "Букет№8",
+        "title": "Bouquet №8",
         "img_id": 20,
         "count": 1,
         "discount": "2.5",
         "price": "8.00",
         "category_id": 3,
         "consist": " ",
-        "description": "Важные дни хочется украсить красивыми цветами, но с этим букетом они станут ещё ярче. Только взгляните на эти цветы — идеальная идея для праздничного настроения!"
+        "description": "I want to decorate important days with beautiful flowers, but with this bouquet they will become even brighter. Just look at these flowers - the perfect idea for a festive mood!"
       },
       {
         "id": 21,
-        "title": "Букет№7",
+        "title": "Bouquet №7",
         "img_id": 21,
         "count": 1,
         "discount": null,
         "price": "7.00",
         "category_id": 3,
         "consist": " ",
-        "description": "Важные дни хочется украсить красивыми цветами, но с этим букетом они станут ещё ярче. Только взгляните на эти цветы — идеальная идея для праздничного настроения!"
+        "description": "I want to decorate important days with beautiful flowers, but with this bouquet they will become even brighter. Just look at these flowers - the perfect idea for a festive mood!"
       },
       {
         "id": 22,
-        "title": "Букет№6",
+        "title": "Bouquet №6",
         "count": 1,
         "img_id": 22,
         "price": "16.00",
         "discount": null,
         "category_id": 3,
         "consist": " ",
-        "description": "Важные дни хочется украсить красивыми цветами, но с этим букетом они станут ещё ярче. Только взгляните на эти цветы — идеальная идея для праздничного настроения!"
+        "description": "I want to decorate important days with beautiful flowers, but with this bouquet they will become even brighter. Just look at these flowers - the perfect idea for a festive mood!"
       },
       {
         "id": 23,
-        "title": "Букет№54",
+        "title": "Bouquet №54",
         "img_id": 23,
         "count": 1,
         "price": "5.00",
         "discount": null,
         "category_id": 3,
         "consist": " ",
-        "description": "Важные дни хочется украсить красивыми цветами, но с этим букетом они станут ещё ярче. Только взгляните на эти цветы — идеальная идея для праздничного настроения!"
+        "description": "I want to decorate important days with beautiful flowers, but with this bouquet they will become even brighter. Just look at these flowers - the perfect idea for a festive mood!"
       },
       {
         "id": 24,
-        "title": "Букет№53",
+        "title": "Bouquet №53",
         "img_id": 24,
         "price": "4.00",
         "count": 1,
         "discount": null,
         "category_id": 3,
         "consist": " ",
-        "description": "Важные дни хочется украсить красивыми цветами, но с этим букетом они станут ещё ярче. Только взгляните на эти цветы — идеальная идея для праздничного настроения!"
+        "description": "I want to decorate important days with beautiful flowers, but with this bouquet they will become even brighter. Just look at these flowers - the perfect idea for a festive mood!"
       },
       {
         "id": 25,
-        "title": "Букет№52",
+        "title": "Bouquet №52",
         "img_id": 25,
         "discount": null,
         "count": 1,
         "price": "26.00",
         "category_id": 3,
         "consist": " ",
-        "description": "Важные дни хочется украсить красивыми цветами, но с этим букетом они станут ещё ярче. Только взгляните на эти цветы — идеальная идея для праздничного настроения!"
+        "description": "I want to decorate important days with beautiful flowers, but with this bouquet they will become even brighter. Just look at these flowers - the perfect idea for a festive mood!"
       },
       {
         "id": 26,
-        "title": "Букет№51",
+        "title": "Bouquet №51",
         "img_id": 26,
         "price": "59.00",
         "count": 1,
         "category_id": 3,
         "discount": null,
         "consist": " ",
-        "description": "Важные дни хочется украсить красивыми цветами, но с этим букетом они станут ещё ярче. Только взгляните на эти цветы — идеальная идея для праздничного настроения!"
+        "description": "I want to decorate important days with beautiful flowers, but with this bouquet they will become even brighter. Just look at these flowers - the perfect idea for a festive mood!"
       },
       {
         "id": 27,
-        "title": "Букет№48",
+        "title": "Bouquet №48",
         "discount": null,
         "img_id": 27,
         "count": 1,
         "price": "73.00",
         "category_id": 3,
         "consist": " ",
-        "description": "Важные дни хочется украсить красивыми цветами, но с этим букетом они станут ещё ярче. Только взгляните на эти цветы — идеальная идея для праздничного настроения!"
+        "description": "I want to decorate important days with beautiful flowers, but with this bouquet they will become even brighter. Just look at these flowers - the perfect idea for a festive mood!"
       },
       {
         "id": 28,
-        "title": "Свадебная композиция №5",
+        "title": "Wedding composition №5",
         "img_id": 28,
         "price": "132.00",
         "count": 1,
         "discount": null,
         "category_id": 4,
-        "consist": "Состав цветочных композиций оговариваются индивидуально с каждым заказчиком!  Суккулент, эустома, бруния, эвкалипт, гвоздика, альстромерия, хамелациум, кустовая роза, каллы, флористическая губка.",
-        "description": "Оформление торжественного зала цветами-особое направление во флористике.  Развивая и улучшая сервис, флористы добавляют в продажу новые цветы и стараются оставить хорошее впечатление от цветочной композиции. Всем клиентам мы предлагаем индивидуальное обслуживание, помогая сделать собственный неповторимый выбор. Магазин Gvozdika.by поможет Вам оформить зал для любого торжества будь это свадьба, День Рождения или просто корпоративная вечеринка. Наша команда готова выехать в любую точку Республики Беларусь и  с пониманием относится к финансовым возможностям каждого человека. Поэтому мы готовы предложить недорогие решения, экономичность которых не повлияет на парадный и торжественный вид букета или композиции."
+        "consist": "The composition of flower arrangements is negotiated individually with each customer! Succulent, eustoma, brunia, eucalyptus, carnation, alstroemeria, chamelacium, bush rose, calla lilies, floral sponge.",
+        "description": "Decorating a ceremonial hall with flowers is a special trend in floristry. Developing and improving the service, florists add new flowers to the sale and try to leave a good impression of the flower arrangement. We offer individual service to all clients, helping to make their own unique choice. The Gvozdika.by store will help you arrange a hall for any celebration, whether it's a wedding, birthday or just a corporate party. Our team is ready to travel to any place in the Republic of Belarus and is sympathetic to the financial capabilities of each person. Therefore, we are ready to offer inexpensive solutions, the cost-effectiveness of which will not affect the formal and solemn appearance of a bouquet or composition."
       },
       {
         "id": 29,
-        "title": "Свадебная композиция №1",
+        "title": "Wedding composition №1",
         "img_id": 29,
         "count": 1,
         "discount": "29",
         "price": "207.00",
         "category_id": 4,
-        "consist": "Состав цветочных композиций оговариваются индивидуально с каждым заказчиком!  Суккулент, эустома, бруния, эвкалипт, гвоздика, альстромерия, хамелациум, кустовая роза, каллы, флористическая губка.",
-        "description": "Оформление торжественного зала цветами-особое направление во флористике.  Развивая и улучшая сервис, флористы добавляют в продажу новые цветы и стараются оставить хорошее впечатление от цветочной композиции. Всем клиентам мы предлагаем индивидуальное обслуживание, помогая сделать собственный неповторимый выбор. Магазин Gvozdika.by поможет Вам оформить зал для любого торжества будь это свадьба, День Рождения или просто корпоративная вечеринка. Наша команда готова выехать в любую точку Республики Беларусь и  с пониманием относится к финансовым возможностям каждого человека. Поэтому мы готовы предложить недорогие решения, экономичность которых не повлияет на парадный и торжественный вид букета или композиции."
+        "consist": "The composition of flower arrangements is negotiated individually with each customer! Succulent, eustoma, brunia, eucalyptus, carnation, alstroemeria, chamelacium, bush rose, calla lilies, floral sponge.",
+        "description": "Decorating a ceremonial hall with flowers is a special trend in floristry. Developing and improving the service, florists add new flowers to the sale and try to leave a good impression of the flower arrangement. We offer individual service to all clients, helping to make their own unique choice. The Gvozdika.by store will help you arrange a hall for any celebration, whether it's a wedding, birthday or just a corporate party. Our team is ready to travel to any place in the Republic of Belarus and is sympathetic to the financial capabilities of each person. Therefore, we are ready to offer inexpensive solutions, the cost-effectiveness of which will not affect the formal and solemn appearance of a bouquet or composition."
       },
       {
         "id": 30,
-        "title": "Свадебная композиция №3",
+        "title": "Wedding composition №3",
         "img_id": 30,
         "count": 1,
         "price": "250.00",
         "discount": "26",
         "category_id": 4,
-        "consist": "Состав цветочных композиций оговариваются индивидуально с каждым заказчиком!  Суккулент, эустома, бруния, эвкалипт, гвоздика, альстромерия, хамелациум, кустовая роза, каллы, флористическая губка.",
-        "description": "Оформление торжественного зала цветами-особое направление во флористике.  Развивая и улучшая сервис, флористы добавляют в продажу новые цветы и стараются оставить хорошее впечатление от цветочной композиции. Всем клиентам мы предлагаем индивидуальное обслуживание, помогая сделать собственный неповторимый выбор. Магазин Gvozdika.by поможет Вам оформить зал для любого торжества будь это свадьба, День Рождения или просто корпоративная вечеринка. Наша команда готова выехать в любую точку Республики Беларусь и  с пониманием относится к финансовым возможностям каждого человека. Поэтому мы готовы предложить недорогие решения, экономичность которых не повлияет на парадный и торжественный вид букета или композиции."
+        "consist": "The composition of flower arrangements is negotiated individually with each customer! Succulent, eustoma, brunia, eucalyptus, carnation, alstroemeria, chamelacium, bush rose, calla lilies, floral sponge.",
+        "description": "Decorating a ceremonial hall with flowers is a special trend in floristry. Developing and improving the service, florists add new flowers to the sale and try to leave a good impression of the flower arrangement. We offer individual service to all clients, helping to make their own unique choice. The Gvozdika.by store will help you arrange a hall for any celebration, whether it's a wedding, birthday or just a corporate party. Our team is ready to travel to any place in the Republic of Belarus and is sympathetic to the financial capabilities of each person. Therefore, we are ready to offer inexpensive solutions, the cost-effectiveness of which will not affect the formal and solemn appearance of a bouquet or composition."
       },
       {
         "id": 31,
-        "title": "Свадебная композиция №2",
+        "title": "Wedding composition №2",
         "img_id": 31,
         "price": "170.00",
         "count": 1,
         "discount": "15.3",
         "category_id": 4,
-        "consist": "Состав цветочных композиций оговариваются индивидуально с каждым заказчиком!  Суккулент, эустома, бруния, эвкалипт, гвоздика, альстромерия, хамелациум, кустовая роза, каллы, флористическая губка.",
-        "description": "Оформление торжественного зала цветами-особое направление во флористике.  Развивая и улучшая сервис, флористы добавляют в продажу новые цветы и стараются оставить хорошее впечатление от цветочной композиции. Всем клиентам мы предлагаем индивидуальное обслуживание, помогая сделать собственный неповторимый выбор. Магазин Gvozdika.by поможет Вам оформить зал для любого торжества будь это свадьба, День Рождения или просто корпоративная вечеринка. Наша команда готова выехать в любую точку Республики Беларусь и  с пониманием относится к финансовым возможностям каждого человека. Поэтому мы готовы предложить недорогие решения, экономичность которых не повлияет на парадный и торжественный вид букета или композиции."
+        "consist": "The composition of flower arrangements is negotiated individually with each customer! Succulent, eustoma, brunia, eucalyptus, carnation, alstroemeria, chamelacium, bush rose, calla lilies, floral sponge.",
+        "description": "Decorating a ceremonial hall with flowers is a special trend in floristry. Developing and improving the service, florists add new flowers to the sale and try to leave a good impression of the flower arrangement. We offer individual service to all clients, helping to make their own unique choice. The Gvozdika.by store will help you arrange a hall for any celebration, whether it's a wedding, birthday or just a corporate party. Our team is ready to travel to any place in the Republic of Belarus and is sympathetic to the financial capabilities of each person. Therefore, we are ready to offer inexpensive solutions, the cost-effectiveness of which will not affect the formal and solemn appearance of a bouquet or composition."
       },
       {
         "id": 32,
-        "title": "Свадебная композиция №4",
+        "title": "Wedding composition №4",
         "img_id": 32,
         "price": "11.00",
         "count": 1,
         "category_id": 4,
         "discount": "11.00",
-        "consist": "Состав цветочных композиций оговариваются индивидуально с каждым заказчиком!  Суккулент, эустома, бруния, эвкалипт, гвоздика, альстромерия, хамелациум, кустовая роза, каллы, флористическая губка.",
-        "description": "Оформление торжественного зала цветами-особое направление во флористике.  Развивая и улучшая сервис, флористы добавляют в продажу новые цветы и стараются оставить хорошее впечатление от цветочной композиции. Всем клиентам мы предлагаем индивидуальное обслуживание, помогая сделать собственный неповторимый выбор. Магазин Gvozdika.by поможет Вам оформить зал для любого торжества будь это свадьба, День Рождения или просто корпоративная вечеринка. Наша команда готова выехать в любую точку Республики Беларусь и  с пониманием относится к финансовым возможностям каждого человека. Поэтому мы готовы предложить недорогие решения, экономичность которых не повлияет на парадный и торжественный вид букета или композиции."
+        "consist": "The composition of flower arrangements is negotiated individually with each customer! Succulent, eustoma, brunia, eucalyptus, carnation, alstroemeria, chamelacium, bush rose, calla lilies, floral sponge.",
+        "description": "Decorating a ceremonial hall with flowers is a special trend in floristry. Developing and improving the service, florists add new flowers to the sale and try to leave a good impression of the flower arrangement. We offer individual service to all clients, helping to make their own unique choice. The Gvozdika.by store will help you arrange a hall for any celebration, whether it's a wedding, birthday or just a corporate party. Our team is ready to travel to any place in the Republic of Belarus and is sympathetic to the financial capabilities of each person. Therefore, we are ready to offer inexpensive solutions, the cost-effectiveness of which will not affect the formal and solemn appearance of a bouquet or composition."
       },
       {
         "id": 33,
-        "title": "Гортензия темно-розовая",
+        "title": "Hydrangea dark pink",
         "discount": null,
         "img_id": 33,
         "count": 1,
         "price": "99.00",
         "category_id": 5,
-        "consist": "Гортензия темно-розовая",
-        "description": "В разделе «Срезанные цветы» вы можете выбрать понравившиеся цветы, а наши флористы оформят их в букет."
+        "consist": "Hydrangea dark pink",
+        "description": "In the Cut Flowers section, you can choose the flowers you like, and our florists will arrange them into a bouquet."
       },
       {
         "id": 34,
-        "title": "Пионы нежно-розовые",
+        "title": "Pale pink peonies",
         "discount": null,
         "count": 1,
         "img_id": 34,
         "price": "104.40",
         "category_id": 5,
-        "consist": "Пионы нежно-розовые",
-        "description": "В разделе «Срезанные цветы» вы можете выбрать понравившиеся цветы, а наши флористы оформят их в букет."
+        "consist": "Pale pink peonies",
+        "description": "In the Cut Flowers section, you can choose the flowers you like, and our florists will arrange them into a bouquet."
       },
       {
         "id": 35,
-        "title": "Пионы белые",
+        "title": "Peonies white",
         "discount": "26.4",
         "img_id": 35,
         "count": 1,
         "price": "140.40",
         "category_id": 5,
-        "consist": "Пионы белые",
-        "description": "В разделе «Срезанные цветы» вы можете выбрать понравившиеся цветы, а наши флористы оформят их в букет."
+        "consist": "Peonies white",
+        "description": "In the Cut Flowers section, you can choose the flowers you like, and our florists will arrange them into a bouquet."
       },
       {
         "id": 36,
-        "title": "Протея Венус",
+        "title": "Protea Venus",
         "img_id": 36,
         "price": "160.00",
         "count": 1,
         "discount": null,
         "category_id": 5,
-        "consist": "Протея Венус",
-        "description": "В разделе «Срезанные цветы» вы можете выбрать понравившиеся цветы, а наши флористы оформят их в букет."
+        "consist": "Protea Venus",
+        "description": "In the Cut Flowers section, you can choose the flowers you like, and our florists will arrange them into a bouquet."
       },
       {
         "id": 37,
-        "title": "Лилия розовая",
+        "title": "Lily pink",
         "img_id": 37,
         "price": "135.10",
         "count": 1,
         "discount": null,
         "category_id": 5,
-        "consist": "Лилия розовая",
-        "description": "В разделе «Срезанные цветы» вы можете выбрать понравившиеся цветы, а наши флористы оформят их в букет."
+        "consist": "Lily pink",
+        "description": "In the Cut Flowers section, you can choose the flowers you like, and our florists will arrange them into a bouquet."
       },
       {
         "id": 38,
-        "title": "Каллы белые",
+        "title": "Callas are white",
         "img_id": 38,
         "discount": "6.9",
         "count": 1,
         "price": "128.20",
         "category_id": 5,
-        "consist": "Каллы белые",
-        "description": "В разделе «Срезанные цветы» вы можете выбрать понравившиеся цветы, а наши флористы оформят их в букет."
+        "consist": "Callas are white",
+        "description": "In the Cut Flowers section, you can choose the flowers you like, and our florists will arrange them into a bouquet."
       },
       {
         "id": 39,
-        "title": "Эустома белая",
+        "title": "Eustoma white",
         "img_id": 39,
         "count": 1,
         "price": "19.50",
         "discount": null,
         "category_id": 5,
-        "consist": "Эустома белая",
-        "description": "В разделе «Срезанные цветы» вы можете выбрать понравившиеся цветы, а наши флористы оформят их в букет."
+        "consist": "Eustoma white",
+        "description": "In the Cut Flowers section, you can choose the flowers you like, and our florists will arrange them into a bouquet."
       },
       {
         "id": 40,
-        "title": "Ранункулюс белый",
+        "title": "White ranunculus",
         "img_id": 40,
         "price": "139.00",
         "count": 1,
         "discount": "11.8",
         "category_id": 5,
-        "consist": "Ранункулюс белый",
-        "description": "В разделе «Срезанные цветы» вы можете выбрать понравившиеся цветы, а наши флористы оформят их в букет."
+        "consist": "white ranunculus",
+        "description": "In the Cut Flowers section, you can choose the flowers you like, and our florists will arrange them into a bouquet."
       },
       {
         "id": 41,
-        "title": "Лимониум фиолетовый",
+        "title": "Limonium purple",
         "img_id": 41,
         "price": "48.70",
         "count": 1,
         "discount": null,
         "category_id": 5,
-        "consist": "Лимониум фиолетовый",
-        "description": "В разделе «Срезанные цветы» вы можете выбрать понравившиеся цветы, а наши флористы оформят их в букет."
+        "consist": "Limonium purple",
+        "description": "In the Cut Flowers section, you can choose the flowers you like, and our florists will arrange them into a bouquet."
       },
       {
         "id": 42,
-        "title": "Хамелациум розовый",
+        "title": "Chamelacium pink",
         "img_id": 42,
         "discount": "6.4",
         "price": "98.30",
         "count": 1,
         "category_id": 5,
-        "consist": "Хамелациум розовый",
-        "description": "В разделе «Срезанные цветы» вы можете выбрать понравившиеся цветы, а наши флористы оформят их в букет."
+        "consist": "Chamelacium pink",
+        "description": "In the Cut Flowers section, you can choose the flowers you like, and our florists will arrange them into a bouquet."
       },
       {
         "id": 43,
-        "title": "Конфеты Toffifee",
+        "title": "Candy Toffee",
         "img_id": 43,
         "discount": null,
         "price": "68.50",
@@ -2130,7 +2130,7 @@
       },
       {
         "id": 44,
-        "title": "Лучшей подруге",
+        "title": "For best friend",
         "img_id": 44,
         "discount": null,
         "price": "11.50",
@@ -2141,7 +2141,7 @@
       },
       {
         "id": 45,
-        "title": "Конфеты Raffaello",
+        "title": "Sweets Raffaello",
         "img_id": 45,
         "price": "19.40",
         "count": 1,
@@ -2218,267 +2218,267 @@
       },
       {
         "id": 52,
-        "title": "Шар фольгированный цифры",
+        "title": "Balloon foil figures",
         "img_id": 52,
         "discount": null,
         "count": 1,
         "price": "25.00",
         "category_id": 7,
-        "consist": "Шар фольгированный (в ассортименте), 86см, гелий, лента.",
-        "description": "Праздничные дни хочется украсить красивыми воздушными шарами, с охапкой шариков праздник станет ещё ярче. Только взгляните на эти цвета — идеальная идея для праздничного настроения!"
+        "consist": "Balloon foil heart (in assortment), helium, ribbon.",
+        "description": "I want to decorate the holidays with beautiful balloons, with a bunch of balloons the holiday will become even brighter. Just look at these colors - the perfect idea for a festive mood!"
       },
       {
         "id": 53,
-        "title": "Шар фольгированный фигурный",
+        "title": "Figured foil ball",
         "discount": "2.4",
         "img_id": 53,
         "count": 1,
         "price": "18.00",
         "category_id": 7,
-        "consist": "Шар фольгированный фигурный (в ассортименте), гелий, лента.",
-        "description": "Праздничные дни хочется украсить красивыми воздушными шарами, с охапкой шариков праздник станет ещё ярче. Только взгляните на эти цвета — идеальная идея для праздничного настроения!"
+        "consist": "Balloon foil heart (in assortment), helium, ribbon.",
+        "description": "I want to decorate the holidays with beautiful balloons, with a bunch of balloons the holiday will become even brighter. Just look at these colors - the perfect idea for a festive mood!"
       },
       {
         "id": 54,
-        "title": "Шар фольгированный сердце",
+        "title": "Foil heart balloon",
         "img_id": 54,
         "count": 1,
         "discount": null,
         "price": "15.20",
         "category_id": 7,
-        "consist": "Шар фольгированный сердце (в ассортименте), гелий, лента.",
-        "description": "Праздничные дни хочется украсить красивыми воздушными шарами, с охапкой шариков праздник станет ещё ярче. Только взгляните на эти цвета — идеальная идея для праздничного настроения!"
+        "consist": "Balloon foil heart (in assortment), helium, ribbon.",
+        "description": "I want to decorate the holidays with beautiful balloons, with a bunch of balloons the holiday will become even brighter. Just look at these colors - the perfect idea for a festive mood!"
       },
       {
         "id": 55,
-        "title": "Шар гелиевый с рисунком №9",
+        "title": "Helium balloon with pattern No. 9",
         "img_id": 55,
         "count": 1,
         "discount": "3.00",
         "price": "17.80",
         "category_id": 7,
-        "consist": "Шар из латекса12/30см (цвет в ассортименте)  , гелий, лента.",
-        "description": "Праздничные дни хочется украсить красивыми воздушными шарами, с охапкой шариков праздник станет ещё ярче. Только взгляните на эти цвета — идеальная идея для праздничного настроения!"
+        "consist": "Latex balloon 12/30cm (color in assortment), helium, ribbon.",
+        "description": "I want to decorate the holidays with beautiful balloons, with a bunch of balloons the holiday will become even brighter. Just look at these colors - the perfect idea for a festive mood!"
       },
       {
         "id": 56,
-        "title": "Шар гелиевый с рисунком №8",
+        "title": "Helium balloon with pattern No. 8",
         "img_id": 56,
         "discount": null,
         "count": 1,
         "price": "5.90",
         "category_id": 7,
-        "consist": "Шар из латекса12/30см (цвет в ассортименте)  , гелий, лента.",
-        "description": "Праздничные дни хочется украсить красивыми воздушными шарами, с охапкой шариков праздник станет ещё ярче. Только взгляните на эти цвета — идеальная идея для праздничного настроения!"
+        "consist": "Latex balloon 12/30cm (color in assortment), helium, ribbon.",
+        "description": "I want to decorate the holidays with beautiful balloons, with a bunch of balloons the holiday will become even brighter. Just look at these colors - the perfect idea for a festive mood!"
       },
       {
         "id": 57,
-        "title": "Шар гелиевый с рисунком №7",
+        "title": "Helium balloon with pattern No. 7",
         "img_id": 57,
         "discount": null,
         "price": "8.90",
         "count": 1,
         "category_id": 7,
-        "consist": "Шар из латекса12/30см (цвет в ассортименте)  , гелий, лента.",
-        "description": "Праздничные дни хочется украсить красивыми воздушными шарами, с охапкой шариков праздник станет ещё ярче. Только взгляните на эти цвета — идеальная идея для праздничного настроения!"
+        "consist": "Latex balloon 12/30cm (color in assortment), helium, ribbon.",
+        "description": "I want to decorate the holidays with beautiful balloons, with a bunch of balloons the holiday will become even brighter. Just look at these colors - the perfect idea for a festive mood!"
       },
       {
         "id": 58,
-        "title": "Шар гелиевый с рисунком №5",
+        "title": "Helium balloon with pattern No. 5",
         "img_id": 58,
         "price": "13.90",
         "count": 1,
         "discount": null,
         "category_id": 7,
-        "consist": "Шар из латекса12/30см (цвет в ассортименте)  , гелий, лента.",
-        "description": "Праздничные дни хочется украсить красивыми воздушными шарами, с охапкой шариков праздник станет ещё ярче. Только взгляните на эти цвета — идеальная идея для праздничного настроения!"
+        "consist": "Latex balloon 12/30cm (color in assortment), helium, ribbon.",
+        "description": "I want to decorate the holidays with beautiful balloons, with a bunch of balloons the holiday will become even brighter. Just look at these colors - the perfect idea for a festive mood!"
       },
       {
         "id": 59,
-        "title": "Шар гелиевый с рисунком №24",
+        "title": "Helium balloon with pattern No. 24",
         "img_id": 59,
         "discount": null,
         "count": 1,
         "price": "23.90",
         "category_id": 7,
-        "consist": "Шар из латекса12/30см (цвет в ассортименте)  , гелий, лента.",
-        "description": "Праздничные дни хочется украсить красивыми воздушными шарами, с охапкой шариков праздник станет ещё ярче. Только взгляните на эти цвета — идеальная идея для праздничного настроения!"
+        "consist": "Latex balloon 12/30cm (color in assortment), helium, ribbon.",
+        "description": "I want to decorate the holidays with beautiful balloons, with a bunch of balloons the holiday will become even brighter. Just look at these colors - the perfect idea for a festive mood!"
       },
       {
         "id": 60,
-        "title": "Шар гелиевый с рисунком №3",
+        "title": "Helium balloon with pattern No. 3",
         "img_id": 60,
         "price": "17.90",
         "count": 1,
         "discount": "4.30",
         "category_id": 7,
-        "consist": "Шар из латекса12/30см (цвет в ассортименте)  , гелий, лента.",
-        "description": "Праздничные дни хочется украсить красивыми воздушными шарами, с охапкой шариков праздник станет ещё ярче. Только взгляните на эти цвета — идеальная идея для праздничного настроения!"
+        "consist": "Latex balloon 12/30cm (color in assortment), helium, ribbon.",
+        "description": "I want to decorate the holidays with beautiful balloons, with a bunch of balloons the holiday will become even brighter. Just look at these colors - the perfect idea for a festive mood!"
       },
       {
         "id": 61,
-        "title": "Шар гелиевый с рисунком №23",
+        "title": "Helium balloon with pattern No. 23",
         "img_id": 61,
         "count": 1,
         "discount": null,
         "price": "3.90",
         "category_id": 7,
-        "consist": "Шар из латекса12/30см (цвет в ассортименте)  , гелий, лента.",
-        "description": "Праздничные дни хочется украсить красивыми воздушными шарами, с охапкой шариков праздник станет ещё ярче. Только взгляните на эти цвета — идеальная идея для праздничного настроения!"
+        "consist": "Latex balloon 12/30cm (color in assortment), helium, ribbon.",
+        "description": "I want to decorate the holidays with beautiful balloons, with a bunch of balloons the holiday will become even brighter. Just look at these colors - the perfect idea for a festive mood!"
       },
       {
         "id": 62,
-        "title": "Французкая роза белого цвета",
+        "title": "French rose white",
         "img_id": 62,
         "count": 1,
         "discount": null,
         "price": "36.00",
         "category_id": 8,
         "consist": " ",
-        "description": "Французская роза это обычный цветок, который флорист по спирали выворачивает каждый лепесток в ручную. После чего получается пышная и объемная роза."
+        "description": "The French rose is an ordinary flower that the florist turns each petal in a spiral by hand. After that, a lush and voluminous rose is obtained."
       },
       {
         "id": 63,
-        "title": "Роза Эсперанса",
+        "title": "Rosa Esperanza",
         "img_id": 63,
         "price": "34.00",
         "discount": null,
         "count": 1,
         "category_id": 8,
         "consist": " ",
-        "description": "Роза со средним бутоном , у неё обычно большое количество листвы и небольшое количество шипов. Обладает хорошей стойкостью после среза при правильном уходе. Каждый день обновляйте срез минимум на 1-2 сантиметра, меняйте воду в вазе на отстоянную и розы Esperance смогут порадовать Вас своим видом гораздо дольше:)"
+        "description": "A medium bud rose, it usually has a large amount of foliage and a small number of thorns. It has good durability after cutting with proper care. Every day, renew the cut by at least 1-2 centimeters, change the water in the vase to settled and Esperance roses will be able to please you with their appearance much longer :)"
       },
       {
         "id": 64,
-        "title": "Роза Анабель",
+        "title": "Rose Anabel",
         "img_id": 64,
         "count": 1,
         "discount": null,
         "price": "29.19",
         "category_id": 8,
         "consist": " ",
-        "description": "Анабель белая роза со средним бутоном , у неё обычно большое количество листвы и небольшое количество шипов. Обладает хорошей стойкостью после среза при правильном уходе. Каждый день обновляйте срез минимум на 12 сантиметра, меняйте воду в вазе на отстоянную и розы Anabel смогут порадовать Вас своим видом гораздо дольше:)"
+        "description": "Rose Anabel a medium bud rose, it usually has a large amount of foliage and a small number of thorns. It has good durability after cutting with proper care. Every day, renew the cut by at least 1-2 centimeters, change the water in the vase to settled and Esperance roses will be able to please you with their appearance much longer :)"
       },
       {
         "id": 65,
-        "title": "Роза Казанова",
+        "title": "Rosa Casanova",
         "discount": null,
         "count": 1,
         "img_id": 65,
         "price": "3.19",
         "category_id": 8,
         "consist": " ",
-        "description": "Казанова розовая роза со средним бутоном, у неё достаточно большое количество листвы и небольшое количество шипов. Обладает хорошей стойкостью после среза при правильном уходе. Каждый день обновляйте срез минимум на 12 сантиметра, меняйте воду в вазе на отстоянную и розы Casanova смогут порадовать Вас своим видом гораздо дольше:)"
+        "description": "Casanova pink rose with a medium bud, it has a fairly large amount of foliage and a small number of thorns. It has good durability after cutting with proper care. Every day, renew the cut by at least 12 centimeters, change the water in the vase to settled and Casanova roses will be able to please you with their appearance much longer :)"
       },
       {
         "id": 66,
-        "title": "Роза Пенни Лейн",
+        "title": "Rose Penny Lane",
         "img_id": 66,
         "count": 1,
         "discount": "5.6",
         "price": "36.19",
         "category_id": 8,
         "consist": " ",
-        "description": "Пенни Лейн желтая роза как минимум со средним плотным бутоном и массивным стеблем, у неё обычно большое количество листвы и минимальное количество шипов. Обладает хорошей стойкостью после среза при правильном уходе. Каждый день обновляйте срез минимум на 12 сантиметра, меняйте воду в вазе на отстоянную и розы Penny Lane смогут порадовать Вас своим видом гораздо дольше:)"
+        "description": "Penny Lane is a yellow rose with at least a medium tight bud and a massive stem, it usually has a large amount of foliage and a minimal number of thorns. It has good durability after cutting with proper care. Every day, renew the cut by at least 12 centimeters, change the water in the vase to settled, and Penny Lane roses will be able to please you with their appearance much longer :)"
       },
       {
         "id": 67,
-        "title": "Кустовая роза Динара",
+        "title": "Shrub rose Dinara",
         "img_id": 67,
         "discount": null,
         "count": 1,
         "price": "42.00",
         "category_id": 8,
         "consist": " ",
-        "description": "Роза со средним бутоном , у неё обычно большое количество листвы и небольшое количество шипов. Обладает хорошей стойкостью после среза при правильном уходе.Каждый день обновляйте срез минимум на 1-2 сантиметра, меняйте воду в вазе на отстоянную и розы Avalanche Peach смогут порадовать Вас своим видом гораздо дольше:)"
+        "description": "A medium bud rose, it usually has a large amount of foliage and a small number of thorns. It has good durability after cutting with proper care. Every day, renew the cut by at least 1-2 centimeters, change the water in the vase to settled and Avalanche Peach roses will be able to please you with their appearance much longer :)"
       },
       {
         "id": 68,
-        "title": "Роза Фридом Престиж",
+        "title": "Rosa Freedom Prestige",
         "img_id": 68,
         "discount": null,
         "price": "49.80",
         "count": 1,
         "category_id": 8,
         "consist": " ",
-        "description": "Роза со средним бутоном , у неё обычно большое количество листвы и небольшое количество шипов. Обладает хорошей стойкостью после среза при правильном уходе. Каждый день обновляйте срез минимум на 1-2 сантиметра, меняйте воду в вазе на отстоянную и розы Freedom Prestige смогут порадовать Вас своим видом гораздо дольше:)"
+        "description": "A medium bud rose, it usually has a large amount of foliage and a small number of thorns. It has good durability after cutting with proper care. Every day, renew the cut by at least 1-2 centimeters, change the water in the vase to settled, and Freedom Prestige roses will be able to please you with their appearance much longer :)"
       },
       {
         "id": 69,
-        "title": "Роза Хартс",
+        "title": "Rosa Hearts",
         "img_id": 69,
         "count": 1,
         "discount": null,
         "price": "46.70",
         "category_id": 8,
         "consist": " ",
-        "description": "Роза со средним бутоном , у неё обычно большое количество листвы и небольшое количество шипов. Обладает хорошей стойкостью после среза при правильном уходе. Каждый день обновляйте срез минимум на 1-2 сантиметра, меняйте воду в вазе на отстоянную и розы Freedom Prestige смогут порадовать Вас своим видом гораздо дольше:)"
+        "description": "A medium bud rose, it usually has a large amount of foliage and a small number of thorns. It has good durability after cutting with proper care. Every day, renew the cut by at least 1-2 centimeters, change the water in the vase to settled, and Freedom Prestige roses will be able to please you with their appearance much longer :)"
       },
       {
         "id": 70,
-        "title": "Роза Каралуна",
+        "title": "Rose Karaluna",
         "img_id": 70,
         "price": "58.20",
         "count": 1,
         "discount": "16.00",
         "category_id": 8,
         "consist": " ",
-        "description": "Роза со средним бутоном , у неё обычно большое количество листвы и небольшое количество шипов. Обладает хорошей стойкостью после среза при правильном уходе. Каждый день обновляйте срез минимум на 1-2 сантиметра, меняйте воду в вазе на отстоянную и розы Freedom Prestige смогут порадовать Вас своим видом гораздо дольше:)"
+        "description": "A medium bud rose, it usually has a large amount of foliage and a small number of thorns. It has good durability after cutting with proper care. Every day, renew the cut by at least 1-2 centimeters, change the water in the vase to settled, and Freedom Prestige roses will be able to please you with their appearance much longer :)"
       },
       {
         "id": 71,
-        "title": "Роза Аваланш Пич",
+        "title": "Rosa Avalanche Peach",
         "img_id": 71,
         "price": "33.00",
         "count": 1,
         "discount": null,
         "category_id": 8,
         "consist": " ",
-        "description": "Аваланш Пич персиковая роза со средним бутоном , у неё обычно большое количество листвы и небольшое количество шипов. Обладает хорошей стойкостью после среза при правильном уходе. Каждый день обновляйте срез минимум на 12 сантиметра, меняйте воду в вазе на отстоянную и розы Аваланш Пич смогут порадовать Вас своим видом гораздо дольше:)"
+        "description": "Avalanche Peach is a peach rose with a medium bud, it usually has a large amount of foliage and a small number of thorns. It has good durability after cutting with proper care. Every day, update the cut by at least 12 centimeters, change the water in the vase to settled, and Avalanche Peach roses will be able to please you with their appearance much longer :)"
       },
       {
         "id": 72,
-        "title": "Лепестки роз",
+        "title": "Rose petals",
         "img_id": 72,
         "discount": null,
         "price": "45.00",
         "count": 1,
         "category_id": 8,
-        "consist": "500 шт лепестков.",
-        "description": "Лепестки в одном пакете могут быть разного цвета или одного цвета."
+        "consist": "500 petals.",
+        "description": "Petals in one package can be of different colors or the same color."
       },
       {
         "id": 73,
-        "title": "Роза Аваланш Пич",
+        "title": "Rosa Avalanche Peach",
         "img_id": 73,
         "price": "29.99",
         "count": 1,
         "category_id": 8,
         "discount": null,
         "consist": " ",
-        "description": "Роза со средним бутоном , у неё обычно большое количество листвы и небольшое количество шипов. Обладает хорошей стойкостью после среза при правильном уходе. Каждый день обновляйте срез минимум на 1-2 сантиметра, меняйте воду в вазе на отстоянную и розы  смогут порадовать Вас своим видом гораздо дольше:)"
+        "description": "A medium bud rose, it usually has a large amount of foliage and a small number of thorns. It has good durability after cutting with proper care. Every day, renew the cut by at least 1-2 centimeters, change the water in the vase to settled and the roses will be able to please you with their appearance much longer :)"
       },
       {
         "id": 74,
-        "title": "Кустовая роза Грин Глоу",
+        "title": "Shrub rose Green Glow",
         "img_id": 74,
         "discount": null,
         "price": "34.30",
         "count": 1,
         "category_id": 8,
         "consist": " ",
-        "description": "Роза со средним бутоном , у неё обычно большое количество листвы и небольшое количество шипов. Обладает хорошей стойкостью после среза при правильном уходе. Каждый день обновляйте срез минимум на 1-2 сантиметра, меняйте воду в вазе на отстоянную и розы  смогут порадовать Вас своим видом гораздо дольше:)"
+        "description": "A medium bud rose, it usually has a large amount of foliage and a small number of thorns. It has good durability after cutting with proper care. Every day, renew the cut by at least 1-2 centimeters, change the water in the vase to settled and the roses will be able to please you with their appearance much longer :)"
       },
       {
         "id": 75,
-        "title": "Кустовая роза Бэйби",
+        "title": "Shrub rose Baby",
         "img_id": 75,
         "count": 1,
         "price": "35.80",
         "category_id": 8,
         "discount": "1.50",
         "consist": " ",
-        "description": "Роза со средним бутоном , у неё обычно большое количество листвы и небольшое количество шипов. Обладает хорошей стойкостью после среза при правильном уходе. Каждый день обновляйте срез минимум на 1-2 сантиметра, меняйте воду в вазе на отстоянную и розы  смогут порадовать Вас своим видом гораздо дольше:)"
+        "description": "A medium bud rose, it usually has a large amount of foliage and a small number of thorns. It has good durability after cutting with proper care. Every day, renew the cut by at least 1-2 centimeters, change the water in the vase to settled and the roses will be able to please you with their appearance much longer :)"
       }
     ]
   },
