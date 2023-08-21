@@ -3427,6 +3427,12 @@
       "reviewComp": {
         "title": "Наши отзывы",
         "allReview": "Все отзывы"
+      },
+      "accList": {
+        "consist": "Состав",
+        "delivery": "Доставка",
+        "pay": "Оплата",
+        "refund": "Правила возврата"
       }
     },
     "AZ": {
@@ -3815,6 +3821,12 @@
       "reviewComp": {
         "title": "Rəylərimiz",
         "allReview": "Bütün rəylər"
+      },
+      "accList": {
+        "consist": "Tərkibi",
+        "delivery": "Çatdırılma",
+        "pay": "Ödəniş",
+        "refund": "Geri qaytarma qaydası"
       }
     },
     "EN": {
@@ -4203,6 +4215,12 @@
       "reviewComp": {
         "title": "Our reviews",
         "allReview": "All reviews"
+      },
+      "accList": {
+        "consist": "Consist",
+        "delivery": "Delivery",
+        "pay": "Pay",
+        "refund": "Refund rules"
       }
     }
   }
