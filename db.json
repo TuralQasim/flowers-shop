@@ -2625,10 +2625,7 @@
     },
     {
       "id": 4,
-      "src": [
-        "./data/images/bouquet/4/4.jpg",
-        "./data/images/bouquet/4/1.jpg"
-      ]
+      "src": ["./data/images/bouquet/4/4.jpg", "./data/images/bouquet/4/1.jpg"]
     },
     {
       "id": 5,
@@ -2860,24 +2857,15 @@
     },
     {
       "id": 52,
-      "src": [
-        "./data/images/baloon/1/1.jpg",
-        "./data/images/baloon/1/2.jpg"
-      ]
+      "src": ["./data/images/baloon/1/1.jpg", "./data/images/baloon/1/2.jpg"]
     },
     {
       "id": 53,
-      "src": [
-        "./data/images/baloon/2/1.jpg",
-        "./data/images/baloon/2/2.jpg"
-      ]
+      "src": ["./data/images/baloon/2/1.jpg", "./data/images/baloon/2/2.jpg"]
     },
     {
       "id": 54,
-      "src": [
-        "./data/images/baloon/3/1.jpg",
-        "./data/images/baloon/3/2.jpg"
-      ]
+      "src": ["./data/images/baloon/3/1.jpg", "./data/images/baloon/3/2.jpg"]
     },
     {
       "id": 55,
@@ -2909,10 +2897,7 @@
     },
     {
       "id": 62,
-      "src": [
-        "./data/images/roses/1/1.jpg",
-        "./data/images/roses/1/2.jpg"
-      ]
+      "src": ["./data/images/roses/1/1.jpg", "./data/images/roses/1/2.jpg"]
     },
     {
       "id": 63,
@@ -3156,7 +3141,11 @@
         "catalog": "Каталог",
         "category": "Категория",
         "price": "Цена",
-        "notFound": "Товаров нет"
+        "notFound": "Товаров нет",
+        "sorting": "Сортиворать по:",
+        "sortItem1": "алфавиту",
+        "sortItem2": "цене(по возрастанию)",
+        "sortItem3": "цене(по убыванию)"
       },
       "contact": {
         "title": "Контакты",
@@ -3540,7 +3529,11 @@
         "catalog": "Catalog",
         "category": "Kateqoriya",
         "price": "Qiymət",
-        "notFound": "Məhsul tapılmadı"
+        "notFound": "Məhsul tapılmadı",
+        "sorting": "Sıralama:",
+        "sortItem1": "Əlifba sırasıyla",
+        "sortItem2": "Qiymətə görə(min-max)",
+        "sortItem3": "Qiymətə görə(max-min)"
       },
       "contact": {
         "title": "Əlaqələr",
@@ -3924,7 +3917,11 @@
         "catalog": "catalog",
         "category": "category",
         "price": "price",
-        "notFound": "Not found"
+        "notFound": "Not found",
+        "sorting": "Sorting:",
+        "sortItem1": "In alphabetical order",
+        "sortItem2": "For the price(min-max)",
+        "sortItem3": "For the price(max-min)"
       },
       "contact": {
         "title": "Contacts",
